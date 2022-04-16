@@ -1,0 +1,786 @@
+Index;name;album;artist;release_date;length;popularity;explicit;danceability;acousticness;danceability;energy;instrumentalness;liveness;loudness;speechiness;tempo;time_signature;key;mode;valence
+0;Shape of You;÷ (Deluxe);Ed Sheeran;2017-03-03;233.712;89;False;0.825;0.581;0.825;0.652;0.0;0.0931;-3.183;0.0802;95.977;4;1;0;0.931
+1;Blinding Lights;After Hours;The Weeknd;2020-03-20;200.04;95;False;0.514;0.00146;0.514;0.73;9.54e-05;0.0897;-5.934;0.0598;171.005;4;1;1;0.334
+2;Dance Monkey;Dance Monkey;Tones And I;2019-05-10;209.754;68;False;0.826;0.688;0.826;0.593;0.000161;0.17;-6.401;0.0976;98.083;4;6;0;0.541
+3;rockstar (feat. 21 Savage);beerbongs & bentleys;Post Malone;2018-04-27;218.146;88;True;0.585;0.124;0.585;0.52;7.01e-05;0.131;-6.136;0.0712;159.801;4;5;0;0.129
+4;Someone You Loved;Divinely Uninspired To A Hellish Extent;Lewis Capaldi;2019-05-17;182.16;90;False;0.501;0.751;0.501;0.405;0.0;0.105;-5.679;0.0319;109.891;4;1;1;0.446
+5;One Dance;Views;Drake;2016-05-13;173.986;2;False;0.792;0.00776;0.792;0.625;0.00188;0.329;-5.609;0.0536;103.967;4;1;1;0.37
+6;Closer;Collage EP;The Chainsmokers;2016-11-04;245.506;57;False;0.738;0.415;0.738;0.541;0.0;0.11;-5.597;0.0303;94.949;4;8;1;0.657
+7;Sunflower - Spider-Man: Into the Spider-Verse;Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture);Various Artists;2018-12-14;158.04;88;False;0.76;0.556;0.76;0.479;0.0;0.0703;-5.574;0.0466;89.911;4;2;1;0.913
+8;Señorita;Shawn Mendes (Deluxe);Shawn Mendes;2019-06-19;190.799;83;False;0.759;0.0392;0.759;0.548;0.0;0.0828;-6.049;0.029;116.967;4;9;0;0.749
+9;Believer;Evolve;Imagine Dragons;2017-06-23;204.346;0;False;0.772;0.0512;0.772;0.78;0.0;0.119;-4.288;0.108;124.988;4;10;0;0.719
+10;bad guy;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;Billie Eilish;2019-03-29;194.087;88;False;0.701;0.328;0.701;0.425;0.13;0.1;-10.965;0.375;135.128;4;7;1;0.562
+11;Perfect;÷ (Deluxe);Ed Sheeran;2017-03-03;263.4;90;False;0.599;0.163;0.599;0.448;0.0;0.106;-6.312;0.0232;95.05;3;8;1;0.168
+12;Say You Won't Let Go;Back from the Edge;James Arthur;2016-10-28;211.466;88;False;0.358;0.695;0.358;0.557;0.0;0.0902;-7.398;0.059;85.043;4;10;1;0.494
+13;Thinking out Loud;x (Deluxe Edition);Ed Sheeran;2014-06-21;281.56;86;False;0.781;0.474;0.781;0.445;0.0;0.184;-6.061;0.0295;78.998;4;2;1;0.591
+14;God's Plan;Scorpion;Drake;2018-06-29;198.973;86;True;0.754;0.0332;0.754;0.449;8.29e-05;0.552;-9.211;0.109;77.169;4;7;1;0.357
+15;Lucid Dreams;Goodbye & Good Riddance;Juice WRLD;2018-05-23;239.835;3;True;0.511;0.349;0.511;0.566;0.0;0.34;-7.23;0.2;83.903;4;6;0;0.218
+16;Don't Start Now;Future Nostalgia;Dua Lipa;2020-03-27;183.29;86;False;0.793;0.0123;0.793;0.793;0.0;0.0951;-4.521;0.083;123.95;4;11;0;0.679
+17;Photograph;x (Deluxe Edition);Ed Sheeran;2014-06-21;258.986;88;False;0.614;0.607;0.614;0.379;0.000464;0.0986;-10.48;0.0476;107.989;4;4;1;0.201
+18;SAD!;?;XXXTENTACION;2018-03-16;166.605;88;True;0.74;0.258;0.74;0.613;0.00372;0.123;-4.88;0.145;75.023;4;8;1;0.473
+19;Starboy;Starboy;The Weeknd;2016-11-25;230.453;88;True;0.679;0.141;0.679;0.587;6.35e-06;0.137;-7.015;0.276;186.003;4;7;1;0.486
+20;Something Just Like This;Memories...Do Not Open;The Chainsmokers;2017-04-07;247.16;87;False;0.617;0.0498;0.617;0.635;1.44e-05;0.164;-6.769;0.0317;103.019;4;11;0;0.446
+21;Shallow;A Star Is Born Soundtrack;Lady Gaga;2018-10-05;215.733;87;False;0.572;0.371;0.572;0.385;0.0;0.231;-6.362;0.0308;95.799;4;7;1;0.323
+22;Love Yourself;Purpose (Deluxe);Justin Bieber;2015-11-13;233.72;87;False;0.609;0.835;0.609;0.378;0.0;0.28;-9.828;0.438;100.418;4;4;1;0.515
+23;Bohemian Rhapsody - Remastered 2011;A Night At The Opera (Deluxe Remastered Version);Queen;1975-11-21;354.32;77;False;0.392;0.288;0.392;0.402;0.0;0.243;-9.961;0.0536;143.883;4;0;0;0.228
+24;Havana (feat. Young Thug);Camila;Camila Cabello;2018-01-12;217.306;84;False;0.765;0.184;0.765;0.523;3.56e-05;0.132;-4.333;0.03;104.988;4;2;1;0.394
+25;lovely (with Khalid);lovely (with Khalid);Billie Eilish;2018-04-19;200.185;91;False;0.351;0.934;0.351;0.296;0.0;0.095;-10.109;0.0333;115.284;4;4;0;0.12
+26;All of Me;Love In The Future (Expanded Edition);John Legend;2013-08-30;269.56;89;False;0.422;0.922;0.422;0.264;0.0;0.132;-7.064;0.0322;119.93;4;8;1;0.331
+27;Thunder;Evolve;Imagine Dragons;2017-06-23;187.146;0;False;0.604;0.00782;0.604;0.826;0.15;0.154;-4.804;0.0434;167.985;4;0;1;0.241
+28;7 rings;thank u, next;Ariana Grande;2019-02-08;178.626;88;True;0.778;0.592;0.778;0.317;0.0;0.0881;-10.732;0.334;140.048;4;1;0;0.327
+29;Take Me to Church;Hozier;Hozier;2014-10-07;241.693;66;False;0.575;0.637;0.575;0.664;0.0;0.116;-5.303;0.0481;129.07;4;4;0;0.437
+30;Circles;Hollywood's Bleeding;Post Malone;2019-09-06;215.28;90;False;0.695;0.192;0.695;0.762;0.00244;0.0863;-3.497;0.0395;120.042;4;0;1;0.553
+31;Jocelyn Flores;17;XXXTENTACION;2017-08-25;119.133;89;True;0.872;0.469;0.872;0.391;4.13e-06;0.297;-9.144;0.242;134.021;4;0;0;0.437
+32;goosebumps;Birds In The Trap Sing McKnight;Travis Scott;2016-09-16;243.836;89;True;0.841;0.0847;0.841;0.728;0.0;0.149;-3.37;0.0484;130.049;4;7;1;0.43
+33;XO Tour Llif3;Luv Is Rage 2;Lil Uzi Vert;2017-08-25;182.706;87;True;0.732;0.00264;0.732;0.75;0.0;0.109;-6.366;0.231;155.096;4;11;0;0.401
+34;New Rules;Dua Lipa (Deluxe);Dua Lipa;2017-06-02;209.32;84;False;0.762;0.00261;0.762;0.7;1.56e-05;0.153;-6.021;0.0694;116.073;4;9;0;0.608
+35;Watermelon Sugar;Fine Line;Harry Styles;2019-12-13;174.0;91;False;0.548;0.122;0.548;0.816;0.0;0.335;-4.209;0.0465;95.39;4;0;1;0.557
+36;Happier;Happier;Marshmello;2018-08-17;214.289;87;False;0.687;0.191;0.687;0.792;0.0;0.167;-2.749;0.0452;100.015;4;5;1;0.671
+37;SICKO MODE;ASTROWORLD;Travis Scott;2018-08-03;312.82;86;True;0.834;0.00513;0.834;0.73;0.0;0.124;-3.714;0.222;155.008;4;8;1;0.446
+38;Stressed Out;Blurryface;Twenty One Pilots;2015-05-15;202.333;88;False;0.734;0.0462;0.734;0.637;2.29e-05;0.0602;-5.677;0.141;169.977;4;4;0;0.648
+39;Lean On (feat. MØ & DJ Snake);Peace Is The Mission;Major Lazer;2015-06-01;176.561;0;False;0.723;0.00346;0.723;0.809;0.00123;0.565;-3.081;0.0625;98.007;4;7;0;0.274
+40;Sorry;Purpose (Deluxe);Justin Bieber;2015-11-13;200.786;85;False;0.654;0.0797;0.654;0.76;0.0;0.299;-3.669;0.045;99.945;4;0;0;0.41
+41;HUMBLE.;DAMN.;Kendrick Lamar;2017-04-14;177.0;87;True;0.908;0.000282;0.908;0.621;5.39e-05;0.0958;-6.638;0.102;150.011;4;1;0;0.421
+42;STAY (with Justin Bieber);F*CK LOVE 3: OVER YOU;The Kid LAROI;2021-07-23;141.805;93;True;0.591;0.0383;0.591;0.764;0.0;0.103;-5.484;0.0483;169.928;4;1;1;0.478
+43;Let Her Go;All the Little Lights;Passenger;2012-06-29;252.733;0;False;0.479;0.365;0.479;0.545;0.0;0.0963;-7.346;0.0688;74.897;4;7;1;0.244
+44;Better Now;beerbongs & bentleys;Post Malone;2018-04-27;231.266;85;True;0.68;0.331;0.68;0.578;0.0;0.135;-5.804;0.04;145.038;4;10;1;0.341
+45;Roses - Imanbek Remix;Roses (Imanbek Remix);SAINt JHN;2019-09-13;176.218;2;True;0.785;0.0149;0.785;0.721;0.00432;0.285;-5.457;0.0506;121.962;4;8;1;0.894
+46;Let Me Love You;Encore;DJ Snake;2016-08-05;205.946;86;False;0.649;0.0863;0.649;0.716;2.63e-05;0.135;-5.371;0.0349;99.988;4;8;1;0.163
+47;Faded;Faded;Alan Walker;2015-12-04;212.626;76;False;0.589;0.0291;0.589;0.651;3.2e-06;0.111;-5.097;0.0306;90.011;4;6;1;0.166
+48;Don't Let Me Down;Collage EP;The Chainsmokers;2016-11-04;208.666;57;False;0.534;0.187;0.534;0.868;0.0032;0.148;-5.057;0.205;159.763;4;11;1;0.406
+49;Congratulations;Stoney (Deluxe);Post Malone;2016-12-09;220.293;86;True;0.63;0.215;0.63;0.804;0.0;0.253;-4.183;0.0363;123.146;4;6;1;0.492
+50;Despacito - Remix;Despacito Feat. Justin Bieber (Remix);Luis Fonsi;2017-04-17;228.826;76;False;0.653;0.228;0.653;0.816;0.0;0.0967;-4.353;0.167;178.085;4;2;1;0.816
+51;Wake Me Up;Wake Me Up;Avicii;2013-07-30;249.693;55;False;0.516;0.00389;0.516;0.806;0.000674;0.115;-5.133;0.0538;124.118;4;2;1;0.577
+52;I Took A Pill In Ibiza - Seeb Remix;At Night, Alone.;Mike Posner;2016-05-06;197.933;76;True;0.664;0.0353;0.664;0.714;8.42e-06;0.0843;-6.645;0.111;101.969;4;7;0;0.71
+53;Stay With Me;In The Lonely Hour;Sam Smith;2014-05-26;172.723;85;False;0.418;0.588;0.418;0.42;6.39e-05;0.11;-6.444;0.0414;84.094;4;0;1;0.184
+54;Counting Stars;Native (Deluxe);OneRepublic;2013-03-26;257.279;0;False;0.663;0.0649;0.663;0.712;0.0;0.119;-4.945;0.0381;122.014;4;1;0;0.48
+55;I Don't Care (with Justin Bieber);No.6 Collaborations Project;Ed Sheeran;2019-07-12;219.946;78;False;0.798;0.0902;0.798;0.676;0.0;0.0894;-5.041;0.0442;101.956;4;6;1;0.843
+56;Treat You Better;Illuminate (Deluxe);Shawn Mendes;2016-09-23;187.973;0;False;0.455;0.132;0.455;0.797;0.0;0.11;-4.133;0.36;165.717;4;10;0;0.757
+57;thank u, next;thank u, next;Ariana Grande;2019-02-08;207.32;85;True;0.717;0.229;0.717;0.653;0.0;0.101;-5.634;0.0658;106.966;4;1;1;0.412
+58;Without Me;Manic;Halsey;2020-01-17;201.66;82;True;0.752;0.297;0.752;0.488;9.11e-06;0.0936;-7.05;0.0705;136.041;4;6;1;0.533
+59;Uptown Funk (feat. Bruno Mars);Uptown Special;Mark Ronson;2015-01-12;269.666;86;True;0.856;0.00801;0.856;0.609;8.15e-05;0.0344;-7.223;0.0824;114.988;4;0;1;0.928
+60;Riptide;Dream Your Life Away (Special Edition);Vance Joy;2014-09-09;204.28;83;False;0.484;0.431;0.484;0.731;0.0;0.151;-6.694;0.0379;101.654;4;1;1;0.51
+61;The Hills;Beauty Behind The Madness;The Weeknd;2015-08-28;242.253;0;True;0.356;0.0861;0.356;0.567;0.0;0.137;-7.011;0.0798;135.553;5;0;0;0.109
+62;Can't Hold Us (feat. Ray Dalton);The Heist;Macklemore & Ryan Lewis;2012-10-09;258.342;86;False;0.641;0.0291;0.641;0.922;0.0;0.0862;-4.457;0.0786;146.078;4;2;1;0.847
+63;Too Good At Goodbyes;The Thrill Of It All (Special Edition);Sam Smith;2017-11-03;201.0;78;False;0.681;0.64;0.681;0.372;0.0;0.169;-8.237;0.0432;91.873;4;5;1;0.476
+64;Unforgettable;Jungle Rules;French Montana;2017-07-14;233.901;86;True;0.726;0.0293;0.726;0.769;0.0101;0.104;-5.043;0.123;97.985;4;6;1;0.733
+65;The Box;Please Excuse Me for Being Antisocial;Roddy Ricch;2019-12-06;196.652;86;True;0.896;0.104;0.896;0.586;0.0;0.79;-6.687;0.0559;116.971;4;10;0;0.642
+66;Stitches;Handwritten;Shawn Mendes;2015-04-14;206.88;83;False;0.746;0.0152;0.746;0.754;0.0;0.0486;-6.684;0.0676;149.882;4;1;1;0.746
+67;Moonlight;?;XXXTENTACION;2018-03-16;135.09;87;True;0.921;0.556;0.921;0.537;0.00404;0.102;-5.723;0.0804;128.009;4;9;0;0.711
+68;Memories;Memories;Maroon 5;2019-09-20;189.486;37;False;0.764;0.837;0.764;0.32;0.0;0.0822;-7.209;0.0546;91.019;4;11;1;0.575
+69;Cheap Thrills;This Is Acting;Sia;2016-01-29;211.666;81;False;0.628;0.0472;0.628;0.698;0.00143;0.0907;-5.608;0.105;89.976;4;6;0;0.732
+70;Mood (feat. iann dior);Mood (feat. iann dior);24kGoldn;2020-07-24;140.525;17;True;0.7;0.221;0.7;0.722;0.0;0.272;-3.558;0.0369;90.989;4;7;0;0.756
+71;Girls Like You (feat. Cardi B) - Cardi B Version;Red Pill Blues (Deluxe);Maroon 5;2018-06-15;235.545;70;True;0.851;0.568;0.851;0.541;0.0;0.13;-6.825;0.0505;124.959;4;0;1;0.448
+72;Demons;Night Visions;Imagine Dragons;2012-09-04;175.2;78;False;0.505;0.19;0.505;0.71;0.00025;0.329;-3.015;0.0321;89.938;4;3;1;0.428
+73;That's What I Like;24K Magic;Bruno Mars;2016-11-17;206.693;87;False;0.853;0.013;0.853;0.56;0.0;0.0944;-4.961;0.0406;134.066;4;1;1;0.86
+74;7 Years;Lukas Graham;Lukas Graham;2016-04-01;237.3;83;False;0.765;0.287;0.765;0.473;0.0;0.391;-5.829;0.0514;119.992;4;10;1;0.34
+75;ROCKSTAR (feat. Roddy Ricch);BLAME IT ON BABY;DaBaby;2020-04-17;181.733;86;True;0.746;0.247;0.746;0.69;0.0;0.101;-7.956;0.164;89.977;4;11;1;0.497
+76;Mr. Brightside;Hot Fuss;The Killers;2004-06-15;222.586;79;False;0.356;0.00101;0.356;0.924;0.0;0.0953;-3.74;0.0808;148.017;4;1;1;0.232
+77;Despacito;VIDA;Luis Fonsi;2019-02-01;229.36;83;False;0.655;0.198;0.655;0.797;0.0;0.067;-4.787;0.153;177.928;4;2;1;0.839
+78;Sweater Weather;I Love You.;The Neighbourhood;2013-04-19;240.4;94;False;0.612;0.0495;0.612;0.807;0.0177;0.101;-2.81;0.0336;124.053;4;10;1;0.398
+79;I Like Me Better;I met you when I was 18. (the playlist);Lauv;2018-05-31;197.436;86;False;0.752;0.535;0.752;0.505;2.55e-06;0.104;-7.621;0.253;91.97;4;9;1;0.419
+80;See You Again (feat. Charlie Puth);See You Again (feat. Charlie Puth);Wiz Khalifa;2015-03-10;229.525;0;False;0.689;0.369;0.689;0.481;1.03e-06;0.0649;-7.503;0.0815;80.025;4;10;1;0.283
+81;Wonderwall - Remastered;(What's The Story) Morning Glory? (Deluxe Edition) [Remastered];Oasis;1995-10-02;258.732;3;False;0.372;0.000453;0.372;0.865;0.0;0.234;-4.918;0.0381;174.53;4;2;1;0.478
+82;I Like It;Invasion of Privacy;Cardi B;2018-04-06;253.39;84;True;0.816;0.099;0.816;0.726;0.0;0.372;-3.998;0.129;136.048;4;5;0;0.65
+83;"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")";TROLLS (Original Motion Picture Soundtrack);Trolls;2016-09-23;237.546;77;False;0.669;0.0106;0.669;0.832;0.0;0.0968;-5.721;0.0682;113.035;4;0;1;0.7
+84;"Lose Yourself - From ""8 Mile"" Soundtrack";Curtain Call: The Hits (Deluxe Edition);Eminem;2005-12-06;326.466;81;True;0.692;0.00868;0.692;0.744;0.000423;0.359;-4.565;0.257;171.374;4;2;1;0.0612
+85;drivers license;SOUR;Olivia Rodrigo;2021-05-21;242.013;93;True;0.561;0.768;0.561;0.431;1.42e-05;0.106;-8.81;0.0578;143.875;4;10;1;0.137
+86;Heat Waves;Dreamland (+ Bonus Levels);Glass Animals;2020-08-06;238.805;96;False;0.761;0.44;0.761;0.525;6.7e-06;0.0921;-6.9;0.0944;80.87;4;11;1;0.531
+87;Heathens;Heathens;Twenty One Pilots;2016-06-16;195.92;85;False;0.732;0.0841;0.732;0.396;3.58e-05;0.105;-9.348;0.0286;90.024;4;4;0;0.548
+88;One Kiss (with Dua Lipa);One Kiss (with Dua Lipa);Calvin Harris;2018-04-06;214.846;86;False;0.791;0.037;0.791;0.862;2.19e-05;0.0814;-3.24;0.11;123.994;4;9;0;0.592
+89;Youngblood;Youngblood (Deluxe);5 Seconds of Summer;2018-06-15;203.417;85;False;0.596;0.0169;0.596;0.854;0.0;0.124;-5.114;0.463;120.274;4;7;0;0.152
+90;I'm Yours;We Sing. We Dance. We Steal Things.;Jason Mraz;2008-05-12;242.946;84;False;0.703;0.559;0.703;0.444;0.0;0.0973;-9.331;0.0417;150.96;4;11;1;0.712
+91;I Fall Apart;Stoney (Deluxe);Post Malone;2016-12-09;223.346;83;True;0.556;0.0689;0.556;0.538;0.0;0.196;-5.408;0.0382;143.95;4;8;0;0.291
+92;MONTERO (Call Me By Your Name);MONTERO;Lil Nas X;2021-09-17;137.704;90;True;0.593;0.293;0.593;0.503;0.0;0.405;-6.725;0.22;178.781;4;8;0;0.71
+93;Sugar;V;Maroon 5;2014-09-02;235.493;85;True;0.748;0.0591;0.748;0.788;0.0;0.0863;-7.055;0.0334;120.076;4;1;1;0.884
+94;DÁKITI;EL ÚLTIMO TOUR DEL MUNDO;Bad Bunny;2020-11-27;205.09;88;True;0.731;0.401;0.731;0.573;5.22e-05;0.113;-10.059;0.0544;109.928;4;4;0;0.145
+95;good 4 u;SOUR;Olivia Rodrigo;2021-05-21;178.146;95;True;0.563;0.335;0.563;0.664;0.0;0.0849;-5.044;0.154;166.928;4;9;1;0.688
+96;Radioactive;Night Visions;Imagine Dragons;2012-09-04;186.813;76;False;0.448;0.106;0.448;0.784;0.000108;0.668;-3.686;0.0627;136.245;4;9;1;0.236
+97;when the party's over;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;Billie Eilish;2019-03-29;196.077;85;False;0.367;0.978;0.367;0.111;3.97e-05;0.0897;-14.084;0.0972;82.642;4;4;1;0.198
+98;Attention;Attention;Charlie Puth;2017-04-20;211.475;2;False;0.774;0.0969;0.774;0.626;3.12e-05;0.0848;-4.432;0.0432;100.041;4;3;0;0.777
+99;Old Town Road - Remix;7 EP;Lil Nas X;2019-06-21;157.066;83;False;0.878;0.0533;0.878;0.619;0.0;0.113;-5.56;0.102;136.041;4;6;1;0.639
+100;Psycho (feat. Ty Dolla $ign);beerbongs & bentleys;Post Malone;2018-04-27;221.44;82;True;0.75;0.546;0.75;0.56;0.0;0.111;-8.094;0.105;140.06;4;8;1;0.459
+101;Cold Water;Cold Water;Major Lazer;2016-07-22;185.36;73;False;0.608;0.0736;0.608;0.798;0.0;0.156;-5.092;0.0432;92.943;4;6;0;0.501
+102;Eastside (with Halsey & Khalid);FRIENDS KEEP SECRETS;benny blanco;2018-12-07;170.769;78;False;0.632;0.549;0.632;0.686;0.0;0.2;-7.665;0.243;89.949;4;6;0;0.329
+103;No Role Modelz;2014 Forest Hills Drive;J. Cole;2014-12-09;292.986;61;True;0.692;0.301;0.692;0.521;0.0;0.0565;-8.465;0.33;100.45;4;10;0;0.463
+104;What Do You Mean?;Purpose (Deluxe);Justin Bieber;2015-11-13;205.68;82;False;0.845;0.59;0.845;0.567;0.00142;0.0811;-8.118;0.0956;125.02;4;5;0;0.793
+105;Cheerleader - Felix Jaehn Remix Radio Edit;Me 4 U;OMI;2015-10-16;180.56;71;False;0.78;0.141;0.78;0.68;1.2e-05;0.138;-6.081;0.0305;118.026;4;4;1;0.594
+106;Can't Feel My Face;Beauty Behind The Madness;The Weeknd;2015-08-28;213.52;0;False;0.702;0.124;0.702;0.77;0.0;0.103;-5.416;0.0482;107.951;4;9;0;0.593
+107;Levitating (feat. DaBaby);Future Nostalgia;Dua Lipa;2020-03-27;203.064;90;False;0.702;0.00883;0.702;0.825;0.0;0.0674;-3.787;0.0601;102.977;4;6;0;0.915
+108;Taki Taki (feat. Selena Gomez, Ozuna & Cardi B);Carte Blanche;DJ Snake;2019-07-25;212.5;75;True;0.842;0.157;0.842;0.801;4.82e-06;0.0642;-4.167;0.228;95.881;4;8;0;0.617
+109;Smells Like Teen Spirit;Nevermind (Remastered);Nirvana;1991-09-26;301.92;83;False;0.502;2.55e-05;0.502;0.912;0.000173;0.106;-4.556;0.0564;116.761;4;1;1;0.72
+110;We Don't Talk Anymore (feat. Selena Gomez);Nine Track Mind;Charlie Puth;2016-01-29;217.706;73;False;0.728;0.621;0.728;0.563;0.0;0.179;-8.053;0.134;100.017;4;1;0;0.352
+111;This Is What You Came For (feat. Rihanna);This Is What You Came For (feat. Rihanna);Calvin Harris;2016-04-29;222.16;84;False;0.631;0.199;0.631;0.927;0.119;0.148;-2.787;0.0332;123.962;4;9;0;0.465
+112;In My Feelings;Scorpion;Drake;2018-06-29;217.925;80;True;0.835;0.0589;0.835;0.626;0,00006;0.396;-5.833;0.125;91.03;4;1;1;0.35
+113;The Scientist;A Rush of Blood to the Head;Coldplay;2002-08-08;309.6;87;False;0.557;0.731;0.557;0.442;1.46e-05;0.11;-7.224;0.0243;146.277;4;5;1;0.213
+114;Don't Stop Me Now - Remastered 2011;Jazz (Deluxe Remastered Version);Queen;1978-11-10;209.413;77;False;0.563;0.0472;0.563;0.865;0.000191;0.77;-5.277;0.16;156.271;4;5;1;0.601
+115;Someone Like You;21;Adele;2011-01-19;285.04;5;False;0.559;0.892;0.559;0.33;0.0;0.0975;-8.251;0.0285;135.109;4;9;1;0.285
+116;IDGAF;Dua Lipa (Deluxe);Dua Lipa;2017-06-02;217.946;83;True;0.836;0.0403;0.836;0.544;0.0;0.0824;-5.975;0.0943;97.028;4;7;1;0.51
+117;Chandelier;1000 Forms Of Fear (Deluxe Version);Sia;2015-05-04;216.12;73;False;0.399;0.0197;0.399;0.787;6.07e-05;0.0685;-2.88;0.0499;117.089;5;1;1;0.572
+118;Another One Bites The Dust - Remastered 2011;The Game (Deluxe Remastered Version);Queen;1980-06-27;214.653;77;False;0.933;0.112;0.933;0.528;0.329;0.163;-6.472;0.162;109.975;4;5;0;0.756
+119;Work from Home (feat. Ty Dolla $ign);7/27 (Deluxe);Fifth Harmony;2016-05-27;214.48;81;False;0.803;0.103;0.803;0.585;3.94e-06;0.0644;-5.861;0.0432;105.017;4;8;1;0.593
+120;Wow.;Hollywood's Bleeding;Post Malone;2019-09-06;149.546;84;True;0.829;0.136;0.829;0.539;1.78e-06;0.103;-7.359;0.208;99.96;4;11;0;0.388
+121;I Don’t Wanna Live Forever (Fifty Shades Darker);Fifty Shades Darker (Original Motion Picture Soundtrack);Various Artists;2017-02-10;245.653;70;False;0.734;0.0594;0.734;0.442;1.63e-05;0.213;-8.432;0.0557;117.967;4;0;1;0.0973
+122;Ride;Blurryface;Twenty One Pilots;2015-05-15;214.506;85;False;0.645;0.00835;0.645;0.713;0.0;0.113;-5.355;0.0393;74.989;4;6;1;0.566
+123;Every Breath You Take;Synchronicity (Remastered 2003);The Police;1983-06-17;253.92;88;False;0.82;0.543;0.82;0.452;0.00294;0.0714;-9.796;0.0348;117.401;4;1;1;0.74
+124;Hello;25;Adele;2016-06-24;295.493;3;False;0.481;0.336;0.481;0.451;0.0;0.0872;-6.095;0.0347;157.966;4;5;0;0.289
+125;Under Pressure - Remastered 2011;Hot Space (Deluxe Remastered Version);Queen;1982-05-03;248.44;74;False;0.671;0.422;0.671;0.711;0.0;0.104;-7.813;0.0478;113.809;4;2;1;0.466
+126;Yellow;Parachutes;Coldplay;2000-07-10;266.773;90;False;0.429;0.00239;0.429;0.661;0.000121;0.234;-7.227;0.0281;173.372;4;11;1;0.285
+127;Before You Go;Divinely Uninspired To A Hellish Extent (Extended Edition);Lewis Capaldi;2019-11-22;215.106;87;False;0.459;0.604;0.459;0.575;0.0;0.0885;-4.858;0.0573;111.881;4;3;1;0.183
+128;All I Want for Christmas Is You;Merry Christmas;Mariah Carey;1994-10-28;241.106;76;False;0.336;0.164;0.336;0.627;0.0;0.0708;-7.463;0.0384;150.273;4;7;1;0.35
+129;Mi Gente;Mi Gente;J Balvin;2017-06-30;189.44;74;False;0.774;0.0179;0.774;0.687;1.17e-05;0.128;-4.818;0.0584;104.959;4;11;0;0.308
+130;Rockabye (feat. Sean Paul & Anne-Marie);What Is Love? (Deluxe Edition);Clean Bandit;2018-11-30;251.173;77;False;0.717;0.383;0.717;0.73;0.0;0.398;-4.729;0.0568;102.002;4;9;0;0.792
+131;Work;ANTI (Deluxe);Rihanna;2016-01-28;219.32;0;True;0.725;0.0752;0.725;0.534;0.0;0.0919;-6.238;0.0946;91.974;4;11;1;0.558
+132;There's Nothing Holdin' Me Back;Illuminate (Deluxe);Shawn Mendes;2017-04-20;199.44;88;False;0.866;0.38;0.866;0.813;0.0;0.0779;-4.063;0.0554;121.998;4;11;0;0.969
+133;High Hopes;Pray for the Wicked;Panic! At The Disco;2018-06-22;190.946;85;False;0.579;0.193;0.579;0.904;0.0;0.064;-2.729;0.0618;82.014;4;5;1;0.681
+134;It Ain’t Me (with Selena Gomez);It Ain't Me;Kygo;2017-02-17;220.78;70;False;0.64;0.119;0.64;0.533;0.0;0.0864;-6.596;0.0706;99.968;4;0;1;0.515
+135;Peaches (feat. Daniel Caesar & Giveon);Justice;Justin Bieber;2021-03-19;198.081;91;True;0.677;0.321;0.677;0.696;0.0;0.42;-6.181;0.119;90.03;4;0;1;0.464
+136;I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne);Grateful;DJ Khaled;2017-06-22;288.876;70;True;0.599;0.0533;0.599;0.667;0.0;0.134;-4.267;0.0367;80.984;4;7;1;0.817
+137;Halo;I AM...SASHA FIERCE;Beyoncé;2008-11-14;261.64;69;False;0.508;0.272;0.508;0.72;0.0;0.0563;-5.908;0.0628;79.983;4;11;0;0.472
+138;Seven Nation Army;Elephant;The White Stripes;2003-04-01;232.106;87;False;0.743;0.0039;0.743;0.446;0.118;0.337;-7.807;0.0683;123.596;4;4;0;0.278
+139;The Middle;The Middle;Zedd;2018-01-23;184.732;85;False;0.753;0.171;0.753;0.657;0.0;0.112;-3.061;0.0449;107.01;4;7;1;0.437
+140;Me Rehúso;54+1;Danny Ocean;2019-03-22;205.714;80;False;0.744;0.0231;0.744;0.804;0.0;0.0494;-6.327;0.0677;104.823;4;1;1;0.426
+141;In the Name of Love;In the Name of Love;Martin Garrix;2016-07-29;195.706;81;False;0.501;0.109;0.501;0.519;0.0;0.454;-5.88;0.0409;133.99;4;4;0;0.168
+142;Light It Up (feat. Nyla & Fuse ODG) [Remix];Peace Is The Mission (Extended);Major Lazer;2015-11-27;166.138;0;False;0.747;0.0375;0.747;0.877;0.000833;0.233;-3.782;0.0664;107.991;4;9;0;0.752
+143;Side To Side;Dangerous Woman;Ariana Grande;2016-05-20;226.16;6;True;0.65;0.0528;0.65;0.736;0.0;0.235;-5.84;0.229;159.173;4;6;0;0.613
+144;i hate u, i love u (feat. olivia o'brien);us;Garrett Nash;2016-03-25;251.033;82;True;0.492;0.687;0.492;0.275;0.0;0.101;-13.4;0.3;92.6;4;6;0;0.18
+145;Cake By The Ocean;SWAAY;DNCE;2015-10-23;218.44;0;True;0.771;0.147;0.771;0.76;0.0;0.053;-5.459;0.0514;119.0;4;4;0;0.881
+146;Be Alright;A Place We Knew;Dean Lewis;2019-03-22;196.493;78;True;0.551;0.705;0.551;0.537;0.0;0.0802;-7.595;0.034;126.421;4;11;1;0.493
+147;1-800-273-8255;Everybody;Logic;2017-05-05;250.173;82;True;0.62;0.569;0.62;0.574;0.0;0.19;-7.788;0.0479;100.023;4;5;0;0.357
+148;"Love Me Like You Do - From ""Fifty Shades Of Grey""";Fifty Shades Of Grey (Original Motion Picture Soundtrack);Various Artists;2015-02-10;250.266;66;False;0.258;0.253;0.258;0.659;0.0;0.111;-5.903;0.0596;189.558;4;5;0;0.272
+149;Panda;New English;Desiigner;2016-06-26;246.761;75;True;0.576;0.028;0.576;0.766;1.68e-06;0.366;-4.943;0.449;144.833;4;10;0;0.236
+150;Silence;Silence;Marshmello;2017-08-11;180.822;85;False;0.52;0.256;0.52;0.761;4.96e-06;0.17;-3.093;0.0853;141.971;4;4;1;0.286
+151;Hotline Bling;Views;Drake;2016-05-06;267.066;82;False;0.891;0.00258;0.891;0.628;0.00019;0.0504;-7.863;0.0551;134.966;4;2;1;0.552
+152;Me, Myself & I;When It's Dark Out;G-Eazy;2015-12-04;251.466;83;True;0.756;0.0184;0.756;0.674;0.0;0.158;-6.518;0.0959;111.995;4;0;0;0.389
+153;I Feel It Coming;Starboy;The Weeknd;2016-11-24;269.186;76;False;0.773;0.426;0.773;0.819;0.0;0.0679;-5.946;0.118;92.99;4;0;0;0.585
+154;Hotel California - 2013 Remaster;Hotel California (2013 Remaster);Eagles;1976-12-08;391.376;87;False;0.579;0.00574;0.579;0.508;0.000494;0.0575;-9.484;0.027;147.125;4;2;1;0.609
+155;Where Are Ü Now (with Justin Bieber);Skrillex and Diplo present Jack Ü;Jack Ü;2015-02-24;250.285;78;False;0.432;0.041;0.432;0.781;4.21e-06;0.0789;-4.038;0.0567;139.432;4;4;0;0.197
+156;Lush Life;So Good;Zara Larsson;2017-03-17;201.122;81;False;0.694;0.132;0.694;0.712;0.0;0.211;-3.923;0.046;98.023;4;7;0;0.799
+157;Stay;Stay;Zedd;2017-02-23;210.09;80;False;0.69;0.253;0.69;0.622;0.0;0.116;-5.025;0.0622;102.04;4;5;0;0.544
+158;Mask Off;FUTURE;Future;2017-08-04;204.6;50;True;0.833;0.0102;0.833;0.434;0.0219;0.165;-8.795;0.431;150.062;4;2;1;0.281
+159;Starving;Starving;Hailee Steinfeld;2016-07-22;181.88;81;False;0.728;0.378;0.728;0.616;0.0;0.105;-4.238;0.0645;99.962;4;4;1;0.508
+160;Dreams - 2004 Remaster;Rumours (Super Deluxe);Fleetwood Mac;1977-02-04;257.8;87;False;0.828;0.0644;0.828;0.492;0.00428;0.128;-9.744;0.0276;120.151;4;0;1;0.789
+161;Too Good;Views;Drake;2016-05-13;263.373;1;True;0.793;0.0484;0.793;0.653;4.91e-05;0.1;-7.839;0.103;117.993;4;7;1;0.393
+162;24K Magic;24K Magic;Bruno Mars;2016-11-17;225.983;83;False;0.818;0.034;0.818;0.803;0.0;0.153;-4.282;0.0797;106.97;4;1;1;0.632
+163;Fast Car;Fast Car;Jonas Blue;2015-12-04;212.424;72;False;0.644;0.484;0.644;0.57;0.0;0.299;-6.994;0.052;113.945;4;9;1;0.527
+164;PILLOWTALK;Mind Of Mine (Deluxe Edition);ZAYN;2016-03-25;202.746;82;True;0.584;0.117;0.584;0.7;0.0;0.0939;-4.275;0.0456;124.944;4;11;1;0.438
+165;Rather Be (feat. Jess Glynne);New Eyes;Clean Bandit;2014-06-02;227.833;64;False;0.799;0.162;0.799;0.586;2.03e-06;0.193;-6.735;0.0377;120.97;4;11;1;0.549
+166;Roses;Roses;The Chainsmokers;2015-06-16;226.738;78;False;0.713;0.0435;0.713;0.802;0.00377;0.309;-7.055;0.0561;100.001;4;4;1;0.343
+167;Sugar (feat. Francesco Yates);Sugar;Robin Schulz;2015-09-25;219.043;81;False;0.636;0.0185;0.636;0.815;0.0;0.163;-5.098;0.0581;123.063;4;5;0;0.636
+168;WAP (feat. Megan Thee Stallion);WAP (feat. Megan Thee Stallion);Cardi B;2020-08-07;187.541;86;True;0.935;0.0194;0.935;0.454;0.0;0.0824;-7.509;0.375;133.073;4;1;1;0.357
+169;Paris;Memories...Do Not Open;The Chainsmokers;2017-04-07;221.506;77;False;0.653;0.0215;0.653;0.658;1.66e-06;0.0939;-6.428;0.0304;99.99;4;2;1;0.219
+170;Trap Queen;Fetty Wap (Deluxe);Fetty Wap;2015-09-25;222.093;78;True;0.746;0.0244;0.746;0.873;0.0;0.354;-3.803;0.128;148.075;4;7;1;0.817
+171;Needed Me;ANTI;Rihanna;2016-01-28;191.6;0;True;0.671;0.11;0.671;0.314;0.0;0.0825;-8.091;0.244;110.898;4;5;0;0.296
+172;Swalla (feat. Nicki Minaj & Ty Dolla $ign);Swalla (feat. Nicki Minaj & Ty Dolla $ign);Jason Derulo;2017-02-23;216.408;80;True;0.696;0.075;0.696;0.817;0.0;0.187;-3.862;0.109;98.064;4;1;1;0.782
+173;Castle on the Hill;Castle on the Hill;Ed Sheeran;2017-01-06;261.153;62;False;0.461;0.0232;0.461;0.834;1.14e-05;0.14;-4.868;0.0989;135.007;4;2;1;0.471
+174;Firestone;Firestone;Kygo;2015-06-24;273.684;22;False;0.486;0.408;0.486;0.652;6.63e-05;0.077;-7.226;0.052;113.055;4;11;0;0.391
+175;Fake Love;Fake Love;Drake;2016-10-24;207.813;0;True;0.924;0.182;0.924;0.543;0.0;0.103;-7.474;0.298;133.907;4;9;0;0.736
+176;Young Dumb & Broke;American Teen;Khalid;2017-04-27;202.546;85;False;0.799;0.199;0.799;0.539;1.66e-05;0.165;-6.351;0.0421;136.948;4;1;1;0.394
+177;Sweet but Psycho;Sweet but Psycho;Ava Max;2018-08-17;187.436;10;False;0.719;0.0691;0.719;0.704;0.0;0.166;-4.724;0.0476;133.002;4;1;1;0.628
+178;Meant to Be (feat. Florida Georgia Line);All Your Fault: Pt. 2;Bebe Rexha;2017-08-11;163.87;79;False;0.643;0.047;0.643;0.783;0.0;0.083;-6.458;0.0856;154.084;4;10;1;0.579
+179;Feel It Still;Woodstock;Portugal. The Man;2017-06-16;163.253;81;False;0.801;0.0417;0.801;0.795;0.000113;0.0717;-5.115;0.0504;79.028;4;1;0;0.754
+180;"Happy - From ""Despicable Me 2""";"Happy (From ""Despicable Me 2"")";Pharrell Williams;2014-01-22;233.293;0;False;0.662;0.291;0.662;0.757;0.0;0.0885;-6.818;0.144;159.945;4;5;0;0.962
+181;Middle;Middle;DJ Snake;2015-10-16;220.573;0;False;0.564;0.0175;0.564;0.737;0.0;0.054;-4.079;0.0414;104.764;4;9;1;0.211
+182;Want to Want Me;Everything Is 4;Jason Derulo;2015-05-29;207.719;79;False;0.775;0.00906;0.775;0.68;0.0;0.109;-5.508;0.0629;114.025;4;0;0;0.656
+183;"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack";"Earned It (Fifty Shades Of Grey) [From The ""Fifty Shades Of Grey"" Soundtrack]";The Weeknd;2014-12-23;252.226;81;False;0.659;0.385;0.659;0.381;0.0;0.0972;-5.922;0.0304;119.844;3;2;0;0.426
+184;How Deep Is Your Love;How Deep Is Your Love;Calvin Harris;2015-07-17;212.64;80;False;0.738;0.0392;0.738;0.868;0.00169;0.388;-4.373;0.0731;122.003;4;11;0;0.336
+185;Stole the Show;Stole the Show;Kygo;2015-03-23;222.801;17;False;0.679;0.155;0.679;0.662;0.0;0.152;-6.069;0.174;99.879;4;8;0;0.438
+186;Call on Me - Ryan Riback Remix;Call On Me (Remixes);Starley;2016-10-18;222.04;67;False;0.67;0.0604;0.67;0.838;0.000611;0.159;-4.031;0.0362;104.998;4;0;1;0.717
+187;Bang Bang;Sweet Talker (Deluxe Version);Jessie J;2014-10-14;199.386;83;False;0.706;0.26;0.706;0.786;0.0;0.38;-3.417;0.091;150.028;4;0;0;0.751
+188;Don't Wanna Know;Don't Wanna Know;Maroon 5;2016-10-11;214.48;0;False;0.777;0.356;0.777;0.627;0.0;0.0956;-6.142;0.0792;100.054;4;7;1;0.444
+189;Dark Horse;PRISM (Deluxe);Katy Perry;2013-10-18;215.672;80;False;0.645;0.00314;0.645;0.585;0.0;0.165;-6.122;0.0513;131.931;4;6;1;0.353
+190;I See Fire;x (Deluxe Edition);Ed Sheeran;2014-06-21;299.146;0;False;0.641;0.638;0.641;0.176;5.14e-06;0.252;-11.692;0.0349;76.031;4;6;1;0.297
+191;Pompeii;Bad Blood;Bastille;2013-01-01;214.147;77;False;0.679;0.0755;0.679;0.715;0.0;0.271;-6.383;0.0407;127.435;4;9;1;0.571
+192;Prayer in C - Robin Schulz Radio Edit;Prayer in C;Lilly Wood and The Prick;2014-05-16;189.413;76;False;0.763;0.024;0.763;0.875;5.41e-06;0.599;-5.797;0.0262;123.013;4;9;0;0.8
+193;Rude;Don't Kill the Magic;MAGIC!;2014-06-25;224.84;84;False;0.773;0.0422;0.773;0.758;0.0;0.305;-4.993;0.0381;144.033;4;1;1;0.925
+194;Shut Up and Dance;TALKING IS HARD;WALK THE MOON;2014-12-02;199.08;86;False;0.578;0.00701;0.578;0.866;0.0;0.257;-3.804;0.0619;128.038;4;1;1;0.619
+195;My House;My House;Flo Rida;2015-04-07;192.19;81;False;0.688;0.0215;0.688;0.702;0.0;0.128;-4.792;0.0499;94.006;4;7;0;0.74
+196;Timber (feat. Ke$ha);Global Warming: Meltdown (Deluxe Version);Pitbull;2012;204.16;85;False;0.581;0.0295;0.581;0.963;0.0;0.139;-4.087;0.0981;129.992;4;11;1;0.788
+197;No Money;No Money;Galantis;2016-04-01;189.126;72;False;0.671;0.0282;0.671;0.916;0.00762;0.24;-4.014;0.0397;126.01;4;6;0;0.803
+198;The Ocean (feat. Shy Martin);The Ocean (feat. Shy Martin);Mike Perry;2016-04-15;183.414;75;False;0.632;0.0225;0.632;0.575;1.81e-06;0.104;-6.478;0.029;90.037;4;5;1;0.188
+199;I'm Not The Only One;In The Lonely Hour;Sam Smith;2014-01-01;239.316;0;False;0.453;0.554;0.453;0.496;2.65e-05;0.0772;-5.785;0.0453;80.994;4;5;1;0.501
+200;A Sky Full of Stars;Ghost Stories;Coldplay;2014-05-19;267.866;84;False;0.545;0.00617;0.545;0.675;0.00197;0.209;-6.474;0.0279;124.97;4;6;1;0.162
+201;Sex;Sex;Cheat Codes;2016-05-27;228.361;66;True;0.51;0.00451;0.51;0.692;0.0;0.138;-5.825;0.171;102.42;4;0;1;0.209
+202;Into You;Dangerous Woman;Ariana Grande;2016-05-20;244.453;6;False;0.623;0.0162;0.623;0.734;1.75e-06;0.145;-5.948;0.107;107.853;4;9;1;0.37
+203;This Girl (Kungs Vs. Cookin' On 3 Burners);This Girl (Kungs Vs. Cookin' On 3 Burners);Kungs;2016-02-19;195.561;0;False;0.786;0.0865;0.786;0.69;9.03e-05;0.238;-4.665;0.04;122.006;4;3;1;0.485
+204;Waves - Robin Schulz Radio Edit;Waves (Robin Schulz Radio Edit);Mr. Probz;2014-02-07;208.133;5;False;0.829;0.00821;0.829;0.51;0.0014;0.0829;-9.334;0.0369;119.993;4;5;0;0.45
+205;GDFR (feat. Sage the Gemini & Lookas);GDFR (feat. Sage The Gemini & Lookas);Flo Rida;2014-09-29;190.185;63;False;0.657;0.000704;0.657;0.827;0.00534;0.065;-4.036;0.0734;145.889;4;5;1;0.69
+206;Royals;Pure Heroine;Lorde;2013-09-27;190.185;82;False;0.674;0.121;0.674;0.428;0.0;0.132;-9.504;0.122;84.878;4;7;1;0.337
+207;Outside (feat. Ellie Goulding);Motion;Calvin Harris;2014-10-31;227.266;83;False;0.646;0.213;0.646;0.823;0.0;0.322;-4.123;0.0394;128.035;4;2;0;0.418
+208;El Perdón (with Enrique Iglesias);Fénix;Nicky Jam;2017-01-20;205.906;78;False;0.628;0.443;0.628;0.69;0.0;0.113;-5.83;0.0511;179.908;4;8;1;0.66
+209;Black Beatles;SremmLife 2 (Deluxe);Rae Sremmurd;2016-08-12;291.893;81;True;0.794;0.142;0.794;0.632;0.0;0.128;-6.163;0.0649;145.926;4;0;1;0.355
+210;Waiting For Love;Stories;Avicii;2015-10-02;230.613;84;False;0.579;0.31;0.579;0.736;0.0;0.198;-3.863;0.0527;127.999;4;6;0;0.613
+211;Locked Away (feat. Adam Levine);What Dreams Are Made Of;R. City;2015-10-09;227.48;81;False;0.509;0.304;0.509;0.671;0.0;0.0452;-5.709;0.0678;118.413;5;1;1;0.55
+212;Problem;Problem;Ariana Grande;2014-04-28;193.986;0;False;0.653;0.0214;0.653;0.802;1.93e-05;0.108;-5.317;0.215;102.993;4;1;0;0.589
+213;Are You With Me - Radio Edit;Are You With Me (Radio Edit);Lost Frequencies;2015-01-26;138.842;48;False;0.776;0.466;0.776;0.574;7.83e-05;0.131;-9.882;0.0317;121.03;4;5;0;0.412
+214;FourFiveSeconds;FourFiveSeconds;Rihanna;2015-01-24;188.238;82;False;0.582;0.875;0.582;0.272;0.0;0.13;-5.662;0.0501;205.846;4;2;1;0.354
+215;Ain't Nobody (Loves Me Better);Ain't Nobody (Loves Me Better);Felix Jaehn;2015-04-03;186.146;50;False;0.777;0.683;0.777;0.564;0.000252;0.0696;-6.967;0.0315;117.973;4;2;0;0.465
+216;Stay (feat. Maty Noyes);Cloud Nine;Kygo;2016-05-13;239.465;67;False;0.648;0.0444;0.648;0.736;0.000137;0.171;-7.948;0.0385;103.027;4;8;1;0.378
+217;Time of Our Lives;Globalization;Pitbull;2014-11-21;229.36;85;True;0.721;0.0921;0.721;0.802;0.0;0.694;-5.797;0.0583;124.022;4;1;1;0.724
+218;Break Free;My Everything (Deluxe);Ariana Grande;2014-08-25;214.84;79;False;0.687;0.0064;0.687;0.702;4.35e-05;0.204;-5.324;0.0455;129.956;4;7;0;0.284
+219;Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack);Listen (Deluxe);David Guetta;2014-11-24;192.56;67;False;0.596;0.24;0.596;0.73;0.0;0.325;-4.091;0.151;85.979;4;9;1;0.525
+220;Elastic Heart;1000 Forms Of Fear;Sia;2014-07-04;257.2;75;False;0.421;0.0117;0.421;0.791;1.48e-05;0.146;-4.998;0.0496;130.075;4;9;1;0.499
+221;Thrift Shop (feat. Wanz);Thrift Shop (feat. Wanz);Macklemore & Ryan Lewis;2012-08-01;235.613;72;True;0.781;0.0619;0.781;0.526;0.0;0.0457;-6.985;0.293;94.992;4;6;0;0.662
+222;Worth It (feat. Kid Ink);Reflection (Deluxe);Fifth Harmony;2015-01-30;224.573;79;False;0.884;0.063;0.884;0.765;7.04e-06;0.118;-3.865;0.0882;99.987;4;8;1;0.594
+223;Titanium (feat. Sia);Nothing but the Beat 2.0;David Guetta;2011-08-24;245.04;72;False;0.604;0.0678;0.604;0.788;0.153;0.127;-3.673;0.103;126.06;4;0;0;0.301
+224;Drag Me Down;Drag Me Down;One Direction;2015-07-31;192.106;1;False;0.723;0.0997;0.723;0.711;0.0;0.0528;-5.576;0.0378;138.098;4;0;0;0.606
+225;Hymn for the Weekend - Seeb Remix;Hymn for the Weekend (Seeb Remix);Coldplay;2016-03-25;212.647;71;False;0.565;0.00868;0.565;0.849;4.68e-06;0.12;-3.516;0.0517;102.034;4;0;0;0.427
+226;Hymn for the Weekend;A Head Full of Dreams;Coldplay;2015-12-04;258.266;86;False;0.491;0.211;0.491;0.693;6.92e-06;0.325;-6.487;0.0377;90.027;4;0;0;0.412
+227;Blurred Lines;Blurred Lines;Robin Thicke;2013-01-01;263.053;60;False;0.861;0.00412;0.861;0.504;1.78e-05;0.0783;-7.707;0.0489;120.0;4;7;1;0.881
+228;Jumpman;What A Time To Be Alive;Drake;2015-09-20;205.879;77;True;0.852;0.0559;0.852;0.553;0.0;0.332;-7.286;0.187;142.079;4;1;1;0.656
+229;Don't;x (Deluxe Edition);Ed Sheeran;2014-06-21;219.84;78;False;0.806;0.0113;0.806;0.608;0.0;0.635;-7.008;0.0659;95.049;4;1;1;0.849
+230;Adventure of a Lifetime;A Head Full of Dreams;Coldplay;2015-12-04;263.786;80;False;0.638;0.00205;0.638;0.924;0.000175;0.149;-3.887;0.036;111.995;4;7;1;0.53
+231;Locked out of Heaven;Unorthodox Jukebox;Bruno Mars;2012-12-10;233.478;49;False;0.726;0.049;0.726;0.698;0.0;0.309;-4.165;0.0431;143.994;4;5;1;0.867
+232;Roar;Roar;Katy Perry;2013-08-12;222.666;1;False;0.667;0.00778;0.667;0.791;1.19e-05;0.415;-4.329;0.0319;89.956;4;7;0;0.421
+233;Fancy;Fancy;Iggy Azalea;2014-01-01;199.938;0;True;0.911;0.105;0.911;0.709;0.0;0.0491;-4.139;0.0673;94.979;4;10;0;0.365
+234;Hey Brother;True;Avicii;2013-09-13;255.093;4;False;0.545;0.0309;0.545;0.78;4.64e-05;0.0828;-4.867;0.0436;125.014;4;7;0;0.458
+235;Heroes (we could be);Forever;Alesso;2015-05-26;210.013;76;False;0.503;0.0305;0.503;0.748;0.0;0.343;-4.124;0.0619;125.896;4;5;1;0.356
+236;Hold On, We're Going Home;Nothing Was The Same (Deluxe);Drake;2013-01-01;227.88;0;False;0.776;0.00415;0.776;0.413;2.68e-05;0.0724;-7.438;0.0952;100.003;4;6;0;0.287
+237;We Found Love (feat. Rihanna);18 Months;Calvin Harris;2012-10-29;215.52;0;False;0.738;0.0234;0.738;0.776;0.0018;0.0775;-4.808;0.0392;127.984;4;1;1;0.608
+238;Ni**as In Paris;Watch The Throne (Deluxe);JAY-Z;2011-08-08;219.333;43;True;0.788;0.127;0.788;0.859;0.0;0.348;-5.542;0.315;140.027;4;1;1;0.769
+239;Budapest;Did You Hear the Rain?;George Ezra;2013-11-03;202.12;55;False;0.706;0.261;0.706;0.247;0.0;0.103;-17.961;0.0311;127.812;4;5;1;0.424
+240;Sail;Megalithic Symphony;AWOLNATION;2011-03-15;259.093;79;False;0.826;0.441;0.826;0.436;0.615;0.0964;-9.583;0.0558;119.051;4;1;1;0.272
+241;Ho Hey;The Lumineers;The Lumineers;2012-04-03;163.133;0;False;0.685;0.794;0.685;0.466;2.06e-06;0.0915;-9.074;0.0304;79.936;4;0;1;0.353
+242;Gold;low kii savage;Kiiara;2016-03-22;225.882;68;False;0.6;0.615;0.6;0.412;0.0025;0.134;-9.343;0.344;113.049;5;8;1;0.408
+243;679 (feat. Remy Boyz);679 (feat. Remy Boyz);Fetty Wap;2015-06-29;196.693;80;True;0.618;0.00256;0.618;0.717;0.0;0.625;-5.738;0.318;190.05;4;7;1;0.603
+244;Runaway (U & I);Pharmacy;Galantis;2015-06-05;227.073;79;False;0.506;0.00711;0.506;0.805;0.00193;0.0856;-4.119;0.0469;126.008;4;1;1;0.383
+245;Hands To Myself;Revival (Deluxe);Selena Gomez;2015-10-09;200.68;68;False;0.811;0.0147;0.811;0.499;2.44e-06;0.342;-7.161;0.118;111.016;4;5;0;0.466
+246;Do I Wanna Know?;AM;Arctic Monkeys;2013-09-09;272.394;0;False;0.548;0.186;0.548;0.532;0.000263;0.217;-7.596;0.0323;85.03;4;5;1;0.405
+247;One Last Time;My Everything (Deluxe);Ariana Grande;2014-08-25;197.266;83;False;0.628;0.093;0.628;0.593;1.65e-06;0.096;-5.036;0.0323;125.026;4;8;1;0.104
+248;Send My Love (To Your New Lover);25;Adele;2016-06-24;223.08;2;False;0.69;0.0415;0.69;0.524;3.16e-06;0.17;-8.39;0.103;164.023;4;6;0;0.562
+249;Somebody That I Used To Know;Making Mirrors;Gotye;2011-01-01;244.973;80;False;0.864;0.591;0.864;0.495;0.000133;0.0992;-7.036;0.037;129.062;4;0;1;0.72
+250;When I Was Your Man;Unorthodox Jukebox;Bruno Mars;2012-12-07;213.826;88;False;0.612;0.932;0.612;0.28;0.0;0.088;-8.648;0.0434;72.795;4;0;1;0.387
+251;Marvin Gaye (feat. Meghan Trainor);Some Type of Love;Charlie Puth;2015-05-01;190.453;70;False;0.795;0.417;0.795;0.616;0.0;0.349;-5.281;0.06;110.015;4;1;0;0.815
+252;Hall of Fame (feat. will.i.am);#3;The Script;2012-09-10;202.533;73;False;0.421;0.0654;0.421;0.873;0.0;0.123;-4.343;0.0564;84.786;4;10;1;0.629
+253;Mirrors;Mirrors;Justin Timberlake;2013-02-11;485.36;0;False;0.344;0.24;0.344;0.509;0.0;0.083;-6.607;0.0722;76.004;4;5;0;0.529
+254;Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit;Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit];Daft Punk;2013-04-19;248.413;86;False;0.794;0.0426;0.794;0.811;1.07e-06;0.101;-8.966;0.038;116.047;4;6;0;0.862
+255;Don't You Worry Child - Radio Edit;Don't You Worry Child;Swedish House Mafia;2012-09-14;212.862;81;False;0.612;0.112;0.612;0.84;0.0;0.116;-3.145;0.0509;129.042;4;11;0;0.438
+256;Bitch Better Have My Money;Bitch Better Have My Money;Rihanna;2015-03-26;219.305;78;True;0.781;0.0509;0.781;0.728;1.94e-06;0.257;-4.981;0.0621;102.99;4;1;1;0.395
+257;Just Give Me a Reason;The Truth About Love;P!nk;2012-09-17;242.733;0;False;0.778;0.346;0.778;0.547;0.000302;0.132;-7.273;0.0489;95.002;4;2;1;0.441
+258;The Nights;The Days / Nights;Avicii;2014-01-01;176.658;89;False;0.527;0.0166;0.527;0.835;0.0;0.249;-5.298;0.0433;125.983;4;6;1;0.654
+259;Young, Wild & Free (feat. Bruno Mars);Young, Wild & Free (feat. Bruno Mars);Snoop Dogg;2011-10-11;207.333;82;True;0.715;0.0525;0.715;0.655;0.0;0.115;-6.425;0.137;95.078;4;0;1;0.531
+260;Call Me Maybe;Call Me Maybe;Carly Rae Jepsen;2012-01-01;193.466;53;False;0.783;0.0109;0.783;0.584;2.91e-06;0.108;-6.572;0.0409;120.031;4;7;1;0.632
+261;Little Talks;Into The Woods;Of Monsters and Men;2011-01-01;267.693;0;False;0.455;0.0234;0.455;0.786;0.0;0.145;-5.16;0.0338;103.172;4;1;1;0.416
+262;Lay It All on Me (feat. Ed Sheeran);We the Generation;Rudimental;2015-10-02;242.44;62;False;0.669;0.141;0.669;0.747;0.0;0.185;-7.108;0.0428;122.531;4;6;1;0.483
+263;Here;Know-It-All (Deluxe);Alessia Cara;2015-11-13;199.453;71;False;0.376;0.0785;0.376;0.821;0.0;0.0823;-3.974;0.104;120.462;4;0;1;0.331
+264;Dangerous Woman;Dangerous Woman;Ariana Grande;2016-05-20;235.946;4;False;0.664;0.0529;0.664;0.602;0.0;0.356;-5.369;0.0412;134.049;3;4;0;0.289
+265;We Are Young (feat. Janelle Monáe);Some Nights;fun.;2012-02-21;250.626;78;False;0.378;0.02;0.378;0.638;7.66e-05;0.0849;-5.576;0.075;184.086;4;10;1;0.735
+266;Love The Way You Lie;Recovery;Eminem;2010-06-18;263.373;86;True;0.749;0.241;0.749;0.925;0.0;0.52;-5.034;0.227;86.989;4;10;1;0.641
+267;Turn Down for What;Turn Down for What;DJ Snake;2013-12-18;213.733;75;False;0.818;0.00107;0.818;0.799;0.128;0.057;-4.1;0.156;100.014;4;1;0;0.0815
+268;Centuries;American Beauty/American Psycho;Fall Out Boy;2015-01-20;228.36;84;False;0.393;0.00359;0.393;0.858;0.0;0.102;-2.868;0.0729;176.042;4;4;0;0.56
+269;We Can't Stop;Bangerz (Deluxe Version);Miley Cyrus;2013-10-04;231.24;82;False;0.613;0.00882;0.613;0.622;0.0;0.37;-5.794;0.0334;80.003;4;1;0;0.484
+270;"Moves Like Jagger - Studio Recording From ""The Voice"" Performance";Hands All Over;Maroon 5;2010;201.16;74;False;0.722;0.0111;0.722;0.758;0.0;0.308;-4.477;0.0471;128.047;4;11;0;0.62
+271;The A Team;+;Ed Sheeran;2011-09-09;258.373;79;False;0.642;0.669;0.642;0.289;0.0;0.18;-9.918;0.0367;84.996;4;9;1;0.407
+272;On Top Of The World;Night Visions (Deluxe);Imagine Dragons;2012-09-04;189.84;71;False;0.635;0.0893;0.635;0.926;4.53e-06;0.0928;-5.589;0.151;100.048;4;0;1;0.761
+273;Controlla;Views;Drake;2016-05-13;245.226;1;True;0.611;0.0781;0.611;0.468;0.0;0.101;-11.084;0.179;92.092;4;10;0;0.349
+274;Drunk in Love (feat. Jay-Z);BEYONCÉ;Beyoncé;2013-12-20;323.48;48;True;0.589;0.00969;0.589;0.621;0.00104;0.181;-6.902;0.0468;140.03;4;5;0;0.401
+275;Pumped Up Kicks;Torches;Foster The People;2011-05-23;239.6;87;False;0.733;0.145;0.733;0.71;0.115;0.0956;-5.849;0.0292;127.975;4;5;0;0.965
+276;11-lip;BEYONCÉ [Platinum Edition];Beyoncé;2014-11-24;213.506;75;False;0.747;0.0128;0.747;0.705;0.0;0.126;-5.137;0.126;136.024;4;9;0;0.56
+277;Fix You;X&Y;Coldplay;2005-06-07;295.533;86;False;0.209;0.164;0.209;0.417;0.00196;0.113;-8.74;0.0338;138.178;4;3;1;0.124
+278;'Till I Collapse;The Eminem Show;Eminem;2002-05-26;297.786;90;True;0.548;0.0622;0.548;0.847;0.0;0.0816;-3.237;0.186;171.447;4;1;1;0.1
+279;Like I'm Gonna Lose You (feat. John Legend);Title (Deluxe);Meghan Trainor;2015-01-09;225.053;83;False;0.63;0.4;0.63;0.53;0.0;0.177;-7.259;0.0434;108.038;3;0;1;0.417
+280;Viva La Vida;Viva La Vida or Death and All His Friends;Coldplay;2008-05-26;242.373;84;False;0.486;0.0954;0.486;0.617;3.23e-06;0.109;-7.115;0.0287;138.015;4;5;0;0.417
+281;Passionfruit;More Life;Drake;2017-03-18;298.94;86;True;0.809;0.256;0.809;0.463;0.085;0.109;-11.377;0.0396;111.98;4;11;1;0.364
+282;Broccoli;Broccoli;Shelley FKA DRAM;2016-04-06;225.205;69;True;0.886;0.236;0.886;0.525;0.0;0.057;-7.39;0.132;145.99;4;8;1;0.708
+283;My Way;My Way;Calvin Harris;2016-09-16;219.159;79;False;0.818;0.093;0.818;0.913;3.69e-05;0.161;-3.06;0.0426;119.986;4;4;0;0.536
+284;Galway Girl;÷ (Deluxe);Ed Sheeran;2017-03-03;170.826;82;False;0.624;0.0735;0.624;0.876;0.0;0.327;-3.374;0.1;99.943;4;9;1;0.781
+285;Midnight City;Hurry Up We're Dreaming;M83;2011-10-18;243.96;0;False;0.521;0.0191;0.521;0.752;0.0;0.0682;-5.374;0.0369;105.051;4;11;0;0.3
+286;Treasure;Unorthodox Jukebox;Bruno Mars;2012-12-07;178.56;82;True;0.874;0.0412;0.874;0.692;7.24e-05;0.324;-5.28;0.0431;116.017;4;5;0;0.937
+287;I Don't Fuck With You;I Don't Fuck With You;Big Sean;2014-01-01;284.56;0;True;0.82;0.0327;0.82;0.723;0.0;0.347;-5.505;0.0656;97.98;4;1;1;0.417
+288;I Love It (feat. Charli XCX);I Love It;Icona Pop;2012-06-19;155.337;68;True;0.714;0.00855;0.714;0.905;2.55e-05;0.146;-2.663;0.0289;125.927;4;8;1;0.838
+289;F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar);LONG.LIVE.A$AP (Deluxe Version);A$AP Rocky;2013-01-11;233.786;0;True;0.869;0.0208;0.869;0.687;0,000001;0.114;-6.816;0.263;96.006;4;1;1;0.668
+290;Stronger;Graduation;Kanye West;2007-09-11;311.866;1;True;0.625;0.00728;0.625;0.726;0.0;0.318;-7.731;0.155;103.98;4;10;0;0.483
+291;Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix;Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix);Lana Del Rey;2013-02-01;214.912;77;False;0.572;0.0157;0.572;0.81;6.53e-06;0.13;-5.791;0.0558;126.052;4;1;0;0.11
+292;Paradise;Mylo Xyloto;Coldplay;2011-10-24;278.719;86;False;0.449;0.0509;0.449;0.585;8.75e-05;0.0833;-6.761;0.0268;139.631;4;5;1;0.212
+293;Danza Kuduro;Meet The Orphans;Don Omar;2010-01-01;198.773;80;False;0.4;0.0846;0.4;0.915;0.0;0.0503;-4.89;0.28;88.917;3;0;1;0.878
+294;Skinny Love;Birdy;Birdy;2011-11-04;201.08;76;False;0.379;0.952;0.379;0.29;0.00106;0.118;-8.485;0.051;166.467;4;4;1;0.169
+295;Capsize;Truce - EP;FRENSHIP;2016-09-02;237.706;72;False;0.683;0.0398;0.683;0.708;0.155;0.686;-6.244;0.0305;92.991;4;5;0;0.355
+296;Some Nights;Some Nights;fun.;2012-02-21;277.04;75;True;0.672;0.0178;0.672;0.738;6.75e-05;0.0927;-7.045;0.0506;107.938;4;0;1;0.392
+297;Sex on Fire;Only By The Night;Kings of Leon;2008-09-23;203.346;85;False;0.542;0.00172;0.542;0.905;0.0104;0.136;-5.653;0.054;153.398;4;9;1;0.374
+298;It's Time;Night Visions;Imagine Dragons;2012-09-04;237.986;71;False;0.656;0.0162;0.656;0.884;0.0;0.145;-4.748;0.0372;105.009;4;2;1;0.86
+299;Story of My Life;Midnight Memories (Deluxe);One Direction;2013-11-25;245.493;86;False;0.6;0.225;0.6;0.663;0.0;0.119;-5.802;0.0477;121.07;4;3;1;0.286
+300;Rap God;The Marshall Mathers LP2;Eminem;2013-11-05;363.521;51;True;0.708;0.397;0.708;0.843;0.0;0.799;-2.66;0.314;148.14;4;7;1;0.625
+301;Final Song;Final Song;MØ;2016-05-13;235.826;70;False;0.695;0.014;0.695;0.672;7.95e-05;0.0756;-6.109;0.0345;104.988;4;1;0;0.245
+302;Levels - Radio Edit;Levels;Avicii;2011-01-01;199.903;0;False;0.605;0.0534;0.605;0.873;0.837;0.314;-5.938;0.0344;126.026;4;1;0;0.476
+303;Billie Jean;Thriller 25 Super Deluxe Edition;Michael Jackson;1982-11-30;293.826;87;False;0.92;0.0236;0.92;0.654;0.0158;0.0359;-3.051;0.0401;117.046;4;11;0;0.847
+304;Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors);Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors);Lil Wayne;2016-06-24;243.49;80;True;0.502;0.255;0.502;0.786;0.0;0.65;-4.378;0.317;169.021;4;9;0;0.739
+305;Under Control (feat. Hurts);Under Control (feat. Hurts);Calvin Harris;2014-11-12;184.373;11;False;0.55;0.137;0.55;0.919;0.00118;0.0886;-3.431;0.0788;126.059;4;8;1;0.51
+306;Holy Grail;Magna Carta... Holy Grail;JAY-Z;2013-07-04;338.413;69;True;0.676;0.0594;0.676;0.534;8.59e-06;0.256;-6.901;0.0831;145.082;4;2;0;0.156
+307;In the End;Hybrid Theory (Bonus Edition);Linkin Park;2000-10-24;216.88;88;False;0.556;0.00958;0.556;0.864;0.0;0.209;-5.87;0.0584;105.143;4;3;0;0.4
+308;Low Life (feat. The Weeknd);EVOL;Future;2016-04-13;313.546;79;True;0.722;0.337;0.722;0.331;0.282;0.146;-7.789;0.0726;143.961;4;8;1;0.102
+309;Feel So Close - Radio Edit;18 Months;Calvin Harris;2012-10-29;206.413;84;False;0.707;0.000972;0.707;0.924;0.00703;0.204;-2.842;0.031;127.937;4;7;1;0.919
+310;Hey Ya!;Speakerboxxx/The Love Below;Outkast;2003;235.213;85;False;0.727;0.103;0.727;0.974;0.000532;0.174;-2.261;0.0664;79.526;4;4;0;0.965
+311;I Will Wait;Babel (Deluxe Edition);Mumford & Sons;2012-09-21;276.72;0;False;0.485;0.01;0.485;0.735;0.00794;0.213;-5.929;0.0334;131.234;4;1;1;0.456
+312;Intro;xx;The xx;2009-08-18;127.92;0;False;0.617;0.459;0.617;0.778;0.925;0.128;-8.871;0.027;100.363;4;9;0;0.152
+313;Home;Up From Below;Edward Sharpe & The Magnetic Zeros;2009-07-14;303.2;0;False;0.542;0.292;0.542;0.589;0.000522;0.177;-6.623;0.0318;111.665;4;2;1;0.137
+314;Californication;Californication;Red Hot Chili Peppers;1999-06-08;329.733;65;False;0.592;0.0021;0.592;0.767;0.00165;0.127;-2.788;0.027;96.483;4;9;0;0.328
+315;Under the Bridge;Blood Sugar Sex Magik;Red Hot Chili Peppers;1991-09-24;264.306;50;False;0.559;0.0576;0.559;0.345;0.000105;0.141;-13.496;0.0459;84.581;4;4;1;0.458
+316;Numb;Meteora (Bonus Edition);Linkin Park;2003-03-24;185.586;64;False;0.496;0.0046;0.496;0.863;0.0;0.639;-4.153;0.0381;110.018;4;9;1;0.243
+317;Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007;Where the Light Is: John Mayer Live In Los Angeles;John Mayer;2008;263.573;75;False;0.315;0.771;0.315;0.296;0.0;0.702;-13.262;0.0315;173.509;4;5;1;0.435
+318;The Next Episode;2001;Dr. Dre;1999-11-16;161.506;88;True;0.922;0.0281;0.922;0.909;0.0;0.0856;-2.429;0.27;95.295;4;10;0;0.309
+319;The Greatest;The Greatest;Sia;2016;210.893;0;False;0.666;0.0109;0.666;0.723;0.00047;0.0507;-6.164;0.268;192.024;4;1;1;0.739
+320;All We Know;All We Know;The Chainsmokers;2016-09-29;194.08;74;False;0.662;0.097;0.662;0.586;0.00272;0.115;-8.821;0.0307;90.0;4;0;1;0.296
+321;Mercy;Illuminate (Deluxe);Shawn Mendes;2016-09-23;208.733;0;False;0.568;0.133;0.568;0.686;0.0;0.11;-4.901;0.0903;148.294;4;11;0;0.4
+322;Say Something;Is There Anybody Out There?;A Great Big World;2014-01-20;229.4;79;False;0.407;0.857;0.407;0.147;2.89e-06;0.0913;-8.822;0.0355;141.284;3;2;1;0.0765
+323;Let It Go;Chaos And The Calm;James Bay;2014-12-15;260.533;75;False;0.546;0.818;0.546;0.311;1.65e-05;0.107;-10.396;0.0288;147.464;4;1;1;0.246
+324;Solo Dance;Solo Dance;Martin Jensen;2016-11-04;174.933;66;False;0.746;0.0485;0.746;0.846;0.0;0.195;-2.432;0.048;114.955;4;9;1;0.403
+325;Scars To Your Beautiful;Know-It-All (Deluxe);Alessia Cara;2015-11-13;230.226;77;False;0.573;0.0285;0.573;0.739;0.0;0.111;-5.74;0.129;97.085;4;0;1;0.451
+326;Slide (feat. Frank Ocean & Migos);Slide (feat. Frank Ocean & Migos);Calvin Harris;2017-02-24;230.813;77;True;0.736;0.498;0.736;0.795;1.21e-06;0.254;-3.299;0.0545;104.066;4;1;0;0.511
+327;Scared to Be Lonely;Scared to Be Lonely;Martin Garrix;2017-01-27;220.883;82;False;0.584;0.0895;0.584;0.54;0.0;0.261;-7.786;0.0576;137.972;4;1;0;0.195
+328;iSpy (feat. Lil Yachty);iSpy (feat. Lil Yachty);KYLE;2016-12-02;253.106;77;True;0.746;0.378;0.746;0.653;0.0;0.229;-6.745;0.289;75.016;4;7;1;0.672
+329;Location;American Teen;Khalid;2017-04-27;219.08;83;False;0.736;0.33;0.736;0.449;0.000162;0.0898;-11.462;0.425;80.126;4;1;0;0.326
+330;Weak;The Click;AJR;2017-06-09;201.159;0;False;0.669;0.131;0.669;0.579;0.0;0.19;-6.341;0.0468;123.979;4;5;1;0.66
+331;Gold Digger;Late Registration;Kanye West;2005-08-30;207.626;83;True;0.629;0.0195;0.629;0.696;0.0;0.0554;-5.572;0.348;93.034;4;1;0;0.623
+332;Sign of the Times;Harry Styles;Harry Styles;2017-05-12;340.706;85;False;0.516;0.0275;0.516;0.595;0.0;0.109;-4.63;0.0313;119.972;4;5;1;0.222
+333;Redbone;"""Awaken, My Love!""";Childish Gambino;2016-12-02;326.933;1;True;0.745;0.172;0.745;0.356;0.00943;0.123;-10.425;0.0941;160.033;4;1;1;0.607
+334;DNA.;DAMN.;Kendrick Lamar;2017-04-14;185.946;83;True;0.638;0.00454;0.638;0.523;0.0;0.0842;-6.664;0.357;139.913;4;1;1;0.422
+335;Bad Things (with Camila Cabello);bloom;Machine Gun Kelly;2017-05-12;239.293;77;False;0.697;0.214;0.697;0.691;0.0;0.185;-4.757;0.146;137.853;4;2;1;0.305
+336;Strip That Down;Strip That Down;Liam Payne;2017-05-18;204.502;1;False;0.869;0.246;0.869;0.485;0.0;0.0765;-5.595;0.0545;106.028;4;6;1;0.527
+337;Wild Thoughts (feat. Rihanna & Bryson Tiller);Grateful;DJ Khaled;2017-06-22;204.173;77;True;0.671;0.0329;0.671;0.672;0.0;0.118;-3.094;0.0688;97.979;4;0;0;0.632
+338;Bad and Boujee (feat. Lil Uzi Vert);Culture;Migos;2017-04-07;343.15;78;True;0.926;0.0611;0.926;0.666;0.0;0.123;-5.314;0.244;127.079;4;11;1;0.168
+339;Chasing Cars;Eyes Open;Snow Patrol;2006-01-01;267.933;81;False;0.563;0.209;0.563;0.592;5.08e-05;0.132;-4.571;0.0276;104.016;4;9;1;0.136
+340;Bounce Back;I Decided.;Big Sean;2017-02-03;222.36;76;True;0.78;0.106;0.78;0.575;0.0;0.129;-5.628;0.139;81.502;4;1;0;0.273
+341;Africa;Toto IV;TOTO;1982-04-08;295.893;86;False;0.671;0.257;0.671;0.373;8.01e-05;0.0481;-18.064;0.0323;92.718;4;9;1;0.732
+342;POWER;My Beautiful Dark Twisted Fantasy;Kanye West;2010-11-22;292.093;83;True;0.542;0.0161;0.542;0.914;0.0;0.744;-4.747;0.113;153.993;4;0;0;0.576
+343;How to Save a Life;How To Save A Life;The Fray;2005-09-13;262.533;84;False;0.64;0.269;0.64;0.743;0.0;0.101;-4.08;0.0379;122.035;4;10;1;0.361
+344;Feels (feat. Pharrell Williams, Katy Perry & Big Sean);Funk Wav Bounces Vol.1;Calvin Harris;2017-06-30;223.413;81;True;0.893;0.0642;0.893;0.745;0.0;0.0943;-3.105;0.0571;101.018;4;11;0;0.872
+345;No Promises (feat. Demi Lovato);No Promises (feat. Demi Lovato);Cheat Codes;2017-03-31;222.786;66;False;0.739;0.0572;0.739;0.619;0.0;0.105;-6.669;0.162;112.961;4;10;1;0.58
+346;Pretty Girl - Cheat Codes X CADE Remix;Pretty Girl (Cheat Codes X CADE Remix);Maggie Lindemann;2017-03-02;193.613;76;True;0.703;0.15;0.703;0.868;0.132;0.104;-4.661;0.0291;121.03;4;7;0;0.733
+347;Go Flex;Stoney (Deluxe);Post Malone;2016-12-09;179.613;80;True;0.665;0.228;0.665;0.498;0.0;0.0757;-8.185;0.0832;81.967;4;5;1;0.127
+348;All Star;Astro Lounge;Smash Mouth;1999-06-08;200.373;83;False;0.731;0.0395;0.731;0.867;0.0;0.0861;-5.881;0.032;104.019;4;11;1;0.776
+349;Candy Paint;Candy Paint;Post Malone;2017-10-20;229.573;0;True;0.765;0.633;0.765;0.688;0.0;0.0734;-5.566;0.0841;90.013;4;4;1;0.434
+350;Bodak Yellow;Bodak Yellow;Cardi B;2017-06-16;223.962;64;True;0.929;0.0672;0.929;0.723;0.0;0.346;-5.792;0.109;125.022;4;11;0;0.458
+351;Gucci Gang;Lil Pump;Lil Pump;2017-10-06;124.055;69;True;0.936;0.239;0.936;0.523;0.0;0.117;-6.71;0.0597;119.889;4;5;1;0.699
+352;Bank Account;Issa Album;21 Savage;2017-09-23;220.306;83;True;0.884;0.015;0.884;0.347;0,000007;0.0871;-8.227;0.35;75.016;4;8;0;0.376
+353;Wolves;Wolves;Selena Gomez;2017-10-25;197.993;84;False;0.724;0.124;0.724;0.804;0.0;0.204;-4.614;0.0448;124.987;4;11;0;0.306
+354;LOVE. FEAT. ZACARI.;DAMN.;Kendrick Lamar;2017-04-14;213.4;85;True;0.8;0.264;0.8;0.585;0.0;0.153;-7.343;0.0924;126.058;4;10;1;0.779
+355;Look What You Made Me Do;reputation;Taylor Swift;2017-11-10;211.853;81;False;0.766;0.204;0.766;0.709;1.41e-05;0.126;-6.471;0.123;128.07;4;9;0;0.506
+356;Mama;Jonas Blue: Electronic Nature - The Mix 2017;Jonas Blue;2017-07-14;181.614;56;False;0.739;0.091;0.739;0.792;0.0;0.0516;-4.256;0.0418;104.016;4;11;0;0.547
+357;Perfect Strangers;Jonas Blue: Electronic Nature - The Mix 2017;Jonas Blue;2017-07-14;195.313;45;False;0.739;0.35;0.739;0.833;0.0;0.266;-5.012;0.0463;117.99;4;1;1;0.699
+358;Chantaje (feat. Maluma);El Dorado;Shakira;2017-05-26;195.84;80;False;0.852;0.187;0.852;0.773;3.05e-05;0.159;-2.921;0.0776;102.034;4;8;0;0.907
+359;Hips Don't Lie (feat. Wyclef Jean);Oral Fixation, Vol. 2 (Expanded Edition);Shakira;2005-11-28;218.093;87;False;0.778;0.284;0.778;0.824;0.0;0.405;-5.892;0.0707;100.024;4;10;0;0.758
+360;Bailando - Spanish Version;SEX AND LOVE (Deluxe);Enrique Iglesias;2014-01-01;243.413;72;False;0.723;0.0426;0.723;0.777;3.68e-06;0.0451;-3.503;0.108;91.017;4;7;1;0.961
+361;Slow Hands;Flicker (Deluxe);Niall Horan;2017-10-20;188.174;79;False;0.735;0.011;0.735;0.425;0.0;0.055;-6.648;0.0464;85.896;4;0;1;0.848
+362;Escápate Conmigo (feat. Ozuna);Victory;Wisin;2017-12-01;232.786;77;False;0.744;0.0256;0.744;0.859;6.27e-05;0.0881;-3.166;0.0795;91.977;4;11;1;0.787
+363;BUTTERFLY EFFECT;BUTTERFLY EFFECT;Travis Scott;2017-05-18;190.677;1;False;0.763;0.0714;0.763;0.598;0.0;0.112;-6.865;0.0539;140.987;4;11;1;0.182
+364;Glorious (feat. Skylar Grey);GEMINI;Macklemore;2017-09-22;220.454;79;True;0.731;0.0323;0.731;0.794;2.59e-05;0.112;-5.126;0.0522;139.994;4;0;0;0.356
+365;Let Me Go (with Alesso, Florida Georgia Line & watt);Let Me Go (with Alesso, Florida Georgia Line & watt);Hailee Steinfeld;2017-09-08;174.8;81;False;0.664;0.0337;0.664;0.708;0.0;0.0841;-4.154;0.0474;103.07;4;8;1;0.742
+366;Reggaetón Lento (Bailemos);Primera Cita;CNCO;2016-08-26;222.56;76;False;0.761;0.4;0.761;0.838;0.0;0.176;-3.073;0.0502;93.974;4;4;0;0.71
+367;Otra vez (feat. J Balvin);Motivan2;Zion & Lennox;2016-09-30;209.453;78;False;0.832;0.0559;0.832;0.772;0.000486;0.44;-5.429;0.1;96.016;4;10;1;0.704
+368;Party In The U.S.A.;The Time Of Our Lives;Miley Cyrus;2009-01-01;202.066;79;False;0.652;0.00112;0.652;0.698;0.000115;0.0886;-4.667;0.042;96.021;4;10;0;0.47
+369;Wrecking Ball;Bangerz (Deluxe Version);Miley Cyrus;2013-10-04;221.36;81;False;0.53;0.407;0.53;0.422;0.0;0.107;-6.262;0.0342;119.964;4;5;1;0.349
+370;Your Song;Your Song;Rita Ora;2017-05-25;180.757;70;False;0.855;0.158;0.855;0.624;0.0;0.0513;-4.093;0.0488;117.959;4;1;1;0.962
+371;Friends (with BloodPop®);Friends (with BloodPop®);Justin Bieber;2017-08-17;189.466;74;False;0.743;0.00389;0.743;0.735;0.0;0.304;-5.337;0.0382;104.979;4;8;1;0.631
+372;Dusk Till Dawn (feat. Sia) - Radio Edit;Dusk Till Dawn (feat. Sia) [Radio Edit];ZAYN;2017-09-07;239.0;82;False;0.259;0.102;0.259;0.437;1.32e-06;0.106;-6.589;0.0386;180.042;4;11;0;0.0951
+373;Please Don't Go;Please Don't Go;Joel Adams;2015-11-06;210.58;76;False;0.513;0.0118;0.513;0.768;1.94e-05;0.294;-4.868;0.0587;84.264;4;4;0;0.235
+374;Slippery (feat. Gucci Mane);Culture;Migos;2017-04-07;304.041;74;True;0.92;0.307;0.92;0.675;0.0;0.104;-5.661;0.263;141.967;4;1;0;0.749
+375;When We Were Young;25;Adele;2016-06-24;290.906;2;False;0.381;0.348;0.381;0.594;0.0;0.0925;-5.97;0.0486;143.86;4;3;1;0.273
+376;Water Under the Bridge;25;Adele;2016-06-24;240.426;1;False;0.596;0.0189;0.596;0.838;1.54e-05;0.108;-6.52;0.0704;94.982;4;5;0;0.472
+377;Rolling in the Deep;21;Adele;2011-01-19;228.293;3;False;0.729;0.131;0.729;0.756;0.0;0.0527;-5.119;0.0294;104.945;4;8;1;0.522
+378;Happier;÷ (Deluxe);Ed Sheeran;2017-03-03;207.52;84;False;0.522;0.536;0.522;0.385;0.0;0.135;-7.355;0.0288;89.792;4;0;1;0.236
+379;Let You Down;Perception;NF;2017-10-06;212.12;85;False;0.662;0.312;0.662;0.714;0.0;0.179;-5.68;0.121;147.997;4;5;0;0.464
+380;Criminal;Criminal;Natti Natasha;2017-09-01;232.549;79;False;0.814;0.03;0.814;0.813;9.33e-05;0.255;-3.023;0.0561;79.997;4;2;0;0.839
+381;Don't;T R A P S O U L;Bryson Tiller;2015-10-02;198.293;83;True;0.765;0.223;0.765;0.356;0.0;0.0963;-5.556;0.195;96.991;4;11;0;0.189
+382;Welcome To The Jungle;Appetite For Destruction;Guns N' Roses;1987-07-21;273.6;1;False;0.445;0.0326;0.445;0.955;0.284;0.317;-8.027;0.0856;123.343;4;8;1;0.336
+383;Sweet Dreams (Are Made of This) - Remastered;Sweet Dreams (Are Made Of This);Eurythmics;1983-01-04;216.933;85;False;0.692;0.225;0.692;0.711;0.0;0.12;-7.498;0.0317;125.135;4;0;0;0.875
+384;Sweet Home Alabama;Second Helping;Lynyrd Skynyrd;1974-04-15;283.8;85;True;0.596;0.181;0.596;0.605;0.000331;0.0863;-12.145;0.0255;97.798;4;7;1;0.886
+385;It Wasn't Me;Hot Shot;Shaggy;2000-08-08;227.6;0;False;0.852;0.045;0.852;0.616;0.0;0.321;-4.728;0.0747;94.758;4;0;1;0.685
+386;Yeah! (feat. Lil Jon & Ludacris);Confessions (Expanded Edition);Usher;2004-03-23;250.373;86;False;0.894;0.0183;0.894;0.791;0.0;0.0388;-4.699;0.112;105.018;4;2;1;0.583
+387;Him & I (with Halsey);The Beautiful & Damned;G-Eazy;2017-12-15;268.866;80;True;0.589;0.0534;0.589;0.731;0.0;0.308;-6.343;0.0868;87.908;4;2;1;0.191
+388;Eye of the Tiger;Eye Of The Tiger;Survivor;1982;243.773;78;False;0.815;0.216;0.815;0.438;0.000466;0.0787;-14.522;0.0346;108.965;4;0;0;0.552
+389;Échame La Culpa;Échame La Culpa;Luis Fonsi;2017-11-17;173.72;67;False;0.733;0.0376;0.733;0.892;0.0;0.137;-3.641;0.0417;95.989;4;0;1;0.675
+390;Nice For What;Nice For What;Drake;2018-04-06;210.925;2;True;0.567;0.0934;0.567;0.913;0.000124;0.114;-6.471;0.0736;93.35;4;8;1;0.792
+391;Look Alive (feat. Drake);Look Alive (feat. Drake);BlocBoy JB;2018-02-09;181.263;78;True;0.922;0.00104;0.922;0.581;5.86e-05;0.105;-7.495;0.27;140.022;4;10;1;0.595
+392;Whatever It Takes;Evolve;Imagine Dragons;2017-06-23;201.24;0;False;0.675;0.0409;0.675;0.674;0.0;0.128;-4.984;0.0305;134.941;4;1;1;0.569
+393;FRIENDS;FRIENDS;Marshmello;2018-02-09;202.62;83;True;0.626;0.205;0.626;0.88;0.0;0.128;-2.384;0.0504;95.079;4;9;0;0.534
+394;Walk It Talk It;Culture II;Migos;2018-01-26;276.147;80;True;0.907;0.0876;0.907;0.633;2.6e-06;0.106;-5.145;0.184;145.914;4;2;1;0.395
+395;This Is America;This Is America;Childish Gambino;2018-05-06;225.773;75;True;0.854;0.117;0.854;0.463;0.0;0.354;-6.159;0.137;120.024;4;5;1;0.549
+396;Back To You - From 13 Reasons Why – Season 2 Soundtrack;Back To You (From 13 Reasons Why – Season 2 Soundtrack);Selena Gomez;2018-05-10;207.904;78;False;0.601;0.0945;0.601;0.724;1.68e-06;0.12;-4.856;0.0486;102.061;4;6;1;0.508
+397;Never Forget You;So Good;Zara Larsson;2017-03-17;213.427;78;False;0.583;0.00312;0.583;0.732;9.86e-06;0.269;-5.728;0.0457;145.992;4;11;0;0.276
+398;We Will Rock You - Remastered 2011;News Of The World (Deluxe Remastered Version);Queen;1977-10-28;122.066;73;False;0.693;0.679;0.693;0.497;0.0;0.258;-7.316;0.119;81.308;4;2;1;0.473
+399;bury a friend;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;Billie Eilish;2019-03-29;193.143;80;False;0.905;0.74;0.905;0.389;0.162;0.106;-14.505;0.332;120.046;4;8;1;0.196
+400;Mercy;Illuminate (Deluxe);Shawn Mendes;2017-04-20;208.733;83;False;0.555;0.125;0.555;0.662;0.0;0.111;-4.952;0.0827;148.128;4;11;0;0.356
+401;Nonstop;Scorpion;Drake;2018-06-29;238.614;82;True;0.912;0.0165;0.912;0.412;0.0126;0.104;-8.074;0.123;154.983;4;7;1;0.423
+402;no tears left to cry;Sweetener;Ariana Grande;2018-08-17;205.92;82;False;0.699;0.04;0.699;0.713;3.11e-06;0.294;-5.507;0.0594;121.993;4;9;0;0.354
+403;Drip Too Hard (Lil Baby & Gunna);Drip Harder;Lil Baby;2018-10-05;145.542;86;True;0.897;0.0852;0.897;0.662;0.0;0.534;-6.903;0.292;112.511;4;1;0;0.389
+404;Promises (with Sam Smith);Promises (with Sam Smith);Calvin Harris;2018-08-17;213.309;80;False;0.781;0.0119;0.781;0.768;4.91e-06;0.325;-5.991;0.0394;123.07;4;11;1;0.486
+405;Dancing With A Stranger (with Normani);Dancing With A Stranger (with Normani);Sam Smith;2019-01-11;171.029;80;False;0.741;0.45;0.741;0.52;1.97e-06;0.222;-7.513;0.0656;102.998;4;8;1;0.347
+406;Back to You (feat. Bebe Rexha & Digital Farm Animals);Back to You (feat. Bebe Rexha & Digital Farm Animals);Louis Tomlinson;2017-07-21;190.427;74;True;0.683;0.207;0.683;0.53;0.0;0.394;-4.918;0.142;75.016;4;5;0;0.645
+407;Love On The Brain;ANTI (Deluxe);Rihanna;2016-01-28;224.0;85;True;0.509;0.0717;0.509;0.637;1.08e-05;0.0789;-4.83;0.0471;172.006;3;4;0;0.378
+408;Shotgun;Staying at Tamara's;George Ezra;2018-03-23;201.287;81;False;0.673;0.286;0.673;0.735;0.0;0.242;-4.733;0.0457;115.744;4;5;1;0.754
+409;Snow (Hey Oh);Stadium Arcadium;Red Hot Chili Peppers;2006-05-09;334.666;83;False;0.427;0.116;0.427;0.9;1.75e-05;0.119;-3.674;0.0499;104.655;4;11;1;0.599
+410;Can't Stop;By the Way (Deluxe Edition);Red Hot Chili Peppers;2002-07-09;269.0;85;False;0.618;0.0179;0.618;0.938;0.0;0.167;-3.442;0.0456;91.455;4;9;1;0.875
+411;These Days (feat. Jess Glynne, Macklemore & Dan Caplen);Toast to Our Differences (Deluxe Edition);Rudimental;2019-01-25;211.76;62;False;0.654;0.188;0.654;0.798;0.0;0.15;-4.084;0.0451;92.207;4;0;1;0.574
+412;She Will Be Loved - Radio Mix;Songs About Jane: 10th Anniversary Edition;Maroon 5;2002;259.453;82;False;0.651;0.228;0.651;0.663;0.0;0.0994;-5.569;0.0281;102.0;4;0;0;0.465
+413;Payphone;Overexposed;Maroon 5;2021-06-20;231.386;80;True;0.739;0.0136;0.739;0.756;0.0;0.37;-4.828;0.0394;110.028;4;4;1;0.523
+414;2002;Speak Your Mind (Deluxe);Anne-Marie;2018-04-27;186.986;85;False;0.697;0.0372;0.697;0.683;0.0;0.137;-2.881;0.117;96.133;4;1;0;0.603
+415;Finesse - Remix;;;;;;;;;;;;;;;;;;;
+416;Symphony (feat. Zara Larsson);What Is Love? (Deluxe Edition);Clean Bandit;2018-11-30;212.733;79;False;0.715;0.239;0.715;0.605;1.41e-05;0.189;-5.128;0.0428;122.956;4;0;0;0.454
+417;Solo (feat. Demi Lovato);What Is Love? (Deluxe Edition);Clean Bandit;2018-11-30;222.706;72;False;0.74;0.0357;0.74;0.622;4.85e-05;0.356;-4.608;0.0446;104.966;4;11;0;0.556
+418;Better;Suncity;Khalid;2018-10-18;229.32;81;False;0.596;0.0765;0.596;0.552;0.334;0.104;-10.278;0.097;97.949;4;0;0;0.112
+419;Talk (feat. Disclosure);Free Spirit;Khalid;2019-04-05;197.573;76;False;0.9;0.0516;0.9;0.4;0.0;0.0599;-8.575;0.127;135.984;4;0;1;0.346
+420;Beautiful People (feat. Khalid);No.6 Collaborations Project;Ed Sheeran;2019-07-12;197.866;77;False;0.64;0.124;0.64;0.647;0.0;0.0801;-8.114;0.186;92.979;4;5;0;0.546
+421;ZEZE (feat. Travis Scott & Offset);Dying to Live;Kodak Black;2018-12-14;228.759;82;True;0.861;0.0521;0.861;0.603;0.0;0.0924;-5.788;0.176;98.043;4;8;0;0.504
+422;Sin Pijama;MALA SANTA;Becky G;2019-10-18;190.16;71;False;0.788;0.352;0.788;0.745;4.56e-05;0.0973;-4.417;0.0448;94.002;4;11;0;0.79
+423;Vaina Loca;Aura;Ozuna;2018-08-24;176.133;77;False;0.754;0.315;0.754;0.805;0.0;0.203;-4.249;0.0752;93.982;4;6;1;0.555
+424;Everybody Dies In Their Nightmares;17;XXXTENTACION;2017-08-25;95.466;88;True;0.734;0.847;0.734;0.57;2.14e-05;0.112;-7.066;0.133;129.953;4;7;0;0.689
+425;Fuck Love (feat. Trippie Redd);17;XXXTENTACION;2017-08-25;146.52;87;True;0.797;0.0172;0.797;0.533;0.000152;0.103;-9.74;0.0412;131.036;4;0;0;0.329
+426;changes;?;XXXTENTACION;2018-03-16;121.886;84;False;0.669;0.883;0.669;0.308;0.0;0.0984;-10.068;0.029;64.934;4;11;1;0.52
+427;Old Town Road;7 EP;Lil Nas X;2019-06-21;113.0;80;False;0.907;0.0578;0.907;0.53;2.23e-06;0.101;-6.112;0.127;135.998;4;1;1;0.507
+428;Panini;Panini;Lil Nas X;2019-09-13;114.893;76;False;0.703;0.342;0.703;0.594;0.0;0.123;-6.146;0.0752;153.848;4;5;0;0.475
+429;In My Blood;Shawn Mendes;Shawn Mendes;2018-05-25;211.36;79;False;0.622;0.0573;0.622;0.712;0.0;0.13;-7.321;0.066;140.025;4;5;1;0.487
+430;Yes Indeed;Harder Than Ever;Lil Baby;2018-05-18;142.273;84;True;0.963;0.0355;0.963;0.346;0.0;0.108;-9.309;0.53;119.957;4;5;0;0.562
+431;Truth Hurts;Cuz I Love You (Deluxe);Lizzo;2019-05-03;173.325;68;True;0.715;0.11;0.715;0.624;0.0;0.123;-3.046;0.114;158.087;4;4;0;0.412
+432;Ransom;We Love You Tecca;Lil Tecca;2019-08-30;131.24;83;True;0.745;0.0204;0.745;0.642;0.0;0.0658;-6.257;0.287;179.974;4;7;0;0.226
+433;Goodbyes (feat. Young Thug);Hollywood's Bleeding;Post Malone;2019-09-06;174.853;82;True;0.548;0.456;0.548;0.653;0.0;0.103;-3.875;0.081;150.068;4;5;1;0.163
+434;God is a woman;Sweetener;Ariana Grande;2018-08-17;197.546;83;True;0.602;0.0233;0.602;0.658;0,00006;0.237;-5.934;0.0558;145.031;4;1;1;0.268
+435;Perfect Duet (Ed Sheeran & Beyoncé);Perfect Duet (Ed Sheeran & Beyoncé);Ed Sheeran;2017-11-30;259.55;83;False;0.587;0.779;0.587;0.299;0.0;0.123;-7.365;0.0263;94.992;3;8;1;0.356
+436;Rise;Blue;Jonas Blue;2018-11-09;194.407;75;False;0.687;0.327;0.687;0.785;0.0;0.203;-4.65;0.0333;106.046;4;1;1;0.655
+437;A Thousand Years;A Thousand Years;Christina Perri;2011-10-18;285.12;84;False;0.421;0.309;0.421;0.407;0.000961;0.11;-7.445;0.0267;139.028;3;10;1;0.161
+438;More Than You Know;More Than You Know;Axwell /\ Ingrosso;2017-07-28;203.0;83;False;0.646;0.0275;0.646;0.741;0.0;0.312;-4.973;0.034;123.077;4;5;0;0.571
+439;HIGHEST IN THE ROOM;HIGHEST IN THE ROOM;Travis Scott;2019-10-04;175.72;87;True;0.598;0.0546;0.598;0.427;5.83e-06;0.21;-8.764;0.0317;76.469;4;7;0;0.0605
+440;Sweet Child O' Mine;Appetite For Destruction;Guns N' Roses;1987-07-21;356.066;78;True;0.446;0.0901;0.446;0.952;0.0857;0.112;-5.321;0.0523;125.303;4;6;1;0.624
+441;MIA (feat. Drake);MIA (feat. Drake);Bad Bunny;2018-10-11;210.367;82;False;0.817;0.0141;0.817;0.539;0.000496;0.099;-6.349;0.0621;97.062;4;6;0;0.158
+442;Te Boté - Remix;Te Boté (Remix);Nio Garcia;2018-04-13;417.92;82;True;0.903;0.542;0.903;0.675;1.28e-05;0.0595;-3.445;0.214;96.507;4;11;0;0.442
+443;Callaita;Callaita;Bad Bunny;2019-05-31;250.533;86;True;0.61;0.6;0.61;0.624;2.12e-06;0.243;-4.773;0.309;176.169;4;2;1;0.244
+444;Without Me;The Eminem Show;Eminem;2002-05-26;290.32;93;True;0.908;0.00286;0.908;0.669;0.0;0.237;-2.827;0.0738;112.238;4;7;1;0.662
+445;River (feat. Ed Sheeran);Revival;Eminem;2017-12-15;221.013;77;True;0.748;0.142;0.748;0.749;0.0;0.0713;-5.916;0.516;90.09;4;8;0;0.659
+446;Boy With Luv (feat. Halsey);MAP OF THE SOUL : PERSONA;BTS;2019-04-12;229.773;51;False;0.645;0.0923;0.645;0.862;0.0;0.192;-4.757;0.0965;119.991;4;11;0;0.798
+447;House Of The Rising Sun;The Animals;The Animals;1964-01-01;271.28;75;False;0.295;0.000385;0.295;0.584;0.218;0.0996;-6.696;0.0345;117.2;3;9;0;0.228
+448;Ain't No Mountain High Enough;United;Marvin Gaye;1967-08-29;151.666;84;False;0.663;0.43;0.663;0.6;0.0;0.184;-10.87;0.032;129.991;4;7;1;0.8
+449;Paint It, Black;Aftermath;The Rolling Stones;1966-04-15;202.266;83;False;0.464;0.0493;0.464;0.795;0.00244;0.399;-9.267;0.0926;158.691;4;1;1;0.612
+450;Fortunate Son;Willy And The Poor Boys;Creedence Clearwater Revival;1969-11-02;140.773;84;False;0.64;0.201;0.64;0.663;0.00806;0.152;-7.516;0.0374;132.77;4;0;1;0.663
+451;Have You Ever Seen The Rain;Pendulum;Creedence Clearwater Revival;1970-12-07;160.333;76;False;0.743;0.0936;0.743;0.47;3.15e-05;0.186;-13.154;0.029;116.122;4;0;1;0.89
+452;Stairway to Heaven - Remaster;Led Zeppelin IV (Deluxe Edition);Led Zeppelin;1971-11-08;482.83;83;False;0.338;0.58;0.338;0.34;0.0032;0.116;-12.049;0.0339;82.433;4;9;0;0.197
+453;Don't Stop Believin';Escape;Journey;1981;250.986;85;False;0.5;0.127;0.5;0.748;0.0;0.447;-9.072;0.0363;118.852;4;4;1;0.514
+454;Take on Me;Hunting High and Low;a-ha;1985-06-01;225.28;87;False;0.573;0.018;0.573;0.902;0.00125;0.0928;-7.638;0.054;84.412;4;6;0;0.876
+455;Livin' On A Prayer;Slippery When Wet;Bon Jovi;1986-08-16;249.293;87;False;0.532;0.0778;0.532;0.887;0.000214;0.294;-3.757;0.0335;122.511;4;0;1;0.795
+456;Highway to Hell;Highway to Hell;AC/DC;1979-07-27;208.4;87;False;0.574;0.061;0.574;0.913;0.00158;0.156;-4.793;0.133;115.728;4;6;0;0.423
+457;Back In Black;Back In Black;AC/DC;1980-07-25;255.493;87;False;0.31;0.011;0.31;0.7;0.00965;0.0828;-5.678;0.047;188.386;4;9;1;0.763
+458;Thunderstruck;The Razors Edge;AC/DC;1990-09-24;292.88;86;False;0.502;0.000147;0.502;0.89;0.0117;0.217;-5.175;0.0364;133.52;4;4;1;0.259
+459;Creep;Pablo Honey;Radiohead;1993-02-22;238.64;7;True;0.515;0.0102;0.515;0.43;0.000141;0.129;-9.935;0.0369;91.841;4;7;1;0.104
+460;Wannabe;Spice;Spice Girls;1996-01-01;173.026;84;False;0.768;0.101;0.768;0.864;0.0;0.162;-6.145;0.0324;110.008;4;11;1;0.891
+461;Iris;Dizzy up the Girl;The Goo Goo Dolls;1998-09-11;289.533;84;False;0.315;0.00125;0.315;0.715;7.97e-06;0.0942;-8.072;0.0362;155.925;3;11;0;0.497
+462;Chop Suey!;Toxicity;System Of A Down;2001-09-04;210.24;85;False;0.417;0.000278;0.417;0.934;0.0015;0.132;-3.908;0.119;127.066;4;7;0;0.287
+463;Numb / Encore;Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course;JAY-Z;2004-11-30;205.733;82;True;0.687;0.0603;0.687;0.793;0.0;0.582;-4.254;0.166;107.045;4;2;1;0.751
+464;Hey, Soul Sister;Save Me, San Francisco (Golden Gate Edition);Train;2010-12-01;216.773;86;False;0.673;0.185;0.673;0.886;0.0;0.0826;-4.44;0.0431;97.012;4;1;0;0.795
+465;Sucker;Happiness Begins;Jonas Brothers;2019-06-07;181.026;84;False;0.842;0.0427;0.842;0.734;0.0;0.106;-5.065;0.0588;137.958;4;1;0;0.952
+466;Money In The Grave (Drake ft. Rick Ross);The Best In The World Pack;Drake;2019-06-15;205.426;82;True;0.831;0.101;0.831;0.502;0.0;0.122;-4.045;0.046;100.541;4;10;0;0.101
+467;No Problem (feat. Lil Wayne & 2 Chainz);Coloring Book;Chance the Rapper;2016-05-27;304.606;73;True;0.652;0.156;0.652;0.795;0.0;0.123;-5.192;0.174;135.018;4;11;0;0.788
+468;break up with your girlfriend, i'm bored;thank u, next;Ariana Grande;2019-02-08;190.44;81;True;0.726;0.0421;0.726;0.554;0.0;0.106;-5.29;0.0917;169.999;4;5;0;0.335
+469;Never Be the Same;Camila;Camila Cabello;2018-01-12;226.973;79;False;0.637;0.181;0.637;0.713;0.000637;0.137;-4.333;0.0747;129.923;4;0;1;0.243
+470;Mine;COSMIC;Bazzi;2018-04-12;131.064;80;True;0.71;0.0161;0.71;0.789;2.77e-06;0.451;-3.874;0.0722;142.929;4;4;1;0.717
+471;Love Lies (with Normani);Love Lies (with Normani);Khalid;2018-02-14;201.707;78;False;0.708;0.0956;0.708;0.648;0.0;0.134;-5.626;0.0449;143.955;4;6;1;0.338
+472;FEFE;DUMMY BOY;6ix9ine;2018-11-27;179.404;57;True;0.931;0.088;0.931;0.387;0.0;0.136;-9.127;0.412;125.978;4;1;1;0.376
+473;Ric Flair Drip (with Metro Boomin);Without Warning;21 Savage;2017-10-30;172.8;86;True;0.88;0.149;0.88;0.428;5.05e-05;0.114;-8.28;0.206;100.007;4;9;1;0.333
+474;Call Out My Name;My Dear Melancholy,;The Weeknd;2018-03-30;228.373;85;False;0.461;0.17;0.461;0.593;0.0;0.307;-4.954;0.0356;134.17;3;1;1;0.175
+475;hot girl bummer;hot girl bummer;blackbear;2019-08-23;185.093;7;True;0.778;0.128;0.778;0.559;0.0;0.399;-7.109;0.0776;129.989;1;6;0;0.678
+476;Just the Way You Are;Doo-Wops & Hooligans;Bruno Mars;2010-10-05;220.734;85;False;0.635;0.0134;0.635;0.841;0.0;0.0622;-5.379;0.0422;109.021;4;5;1;0.424
+477;Last Christmas;LAST CHRISTMAS;Wham!;1984-11-29;262.96;73;False;0.735;0.189;0.735;0.478;2.48e-06;0.355;-12.472;0.0293;107.682;4;2;1;0.947
+478;I Wanna Dance with Somebody (Who Loves Me);Whitney;Whitney Houston;1987-06-02;291.293;85;False;0.709;0.207;0.709;0.824;0.000307;0.0888;-8.824;0.0453;118.818;4;1;1;0.867
+479;White Iverson;Stoney (Deluxe);Post Malone;2016-12-09;256.533;80;True;0.675;0.233;0.675;0.562;0.0;0.0816;-7.678;0.0352;130.098;4;7;1;0.309
+480;Good For You;Revival (Deluxe);Selena Gomez;2015-10-09;221.28;67;False;0.607;0.181;0.607;0.673;0.0;0.069;-6.484;0.0611;88.952;4;5;0;0.215
+481;The Monster;The Marshall Mathers LP2;Eminem;2013-11-05;250.188;80;True;0.781;0.0525;0.781;0.853;0.0;0.12;-3.68;0.0715;110.049;4;1;0;0.624
+482;Lose You To Love Me;Lose You To Love Me;Selena Gomez;2019-10-23;206.458;28;False;0.505;0.576;0.505;0.34;0.0;0.21;-9.005;0.0438;101.993;4;4;1;0.0916
+483;Come As You Are;Nevermind (Remastered);Nirvana;1991-09-26;218.92;80;False;0.5;0.00016;0.5;0.824;0.00161;0.0916;-5.846;0.0388;120.125;4;4;0;0.539
+484;I Won't Give Up;Love Is a Four Letter Word (Deluxe Edition);Jason Mraz;2012-04-13;240.165;75;False;0.483;0.694;0.483;0.303;0.0;0.115;-10.058;0.0429;133.406;3;4;1;0.139
+485;How Do You Sleep?;How Do You Sleep?;Sam Smith;2019-07-19;202.204;79;False;0.477;0.153;0.477;0.682;0.0;0.0763;-4.931;0.0925;110.567;5;1;0;0.345
+486;China;China;Anuel AA;2019-07-19;301.714;80;False;0.786;0.0846;0.786;0.808;0.000289;0.0822;-3.702;0.0882;105.027;4;7;1;0.609
+487;Soltera - Remix;Épico;Lunay;2019-10-25;266.086;74;False;0.795;0.361;0.795;0.783;0.0;0.437;-4.271;0.0432;92.01;4;5;1;0.799
+488;Con Calma;Con Calma;Daddy Yankee;2019-01-24;193.226;83;False;0.737;0.11;0.737;0.86;1.94e-06;0.0574;-2.652;0.0593;93.989;4;8;0;0.656
+489;Going Bad (feat. Drake);Championships;Meek Mill;2018-11-30;180.522;84;True;0.889;0.259;0.889;0.496;0.0;0.252;-6.365;0.0905;86.003;4;4;0;0.544
+490;MIDDLE CHILD;MIDDLE CHILD;J. Cole;2019-01-23;213.593;85;True;0.837;0.149;0.837;0.364;0.0;0.271;-11.713;0.276;123.984;4;8;1;0.463
+491;In My Mind;In My Mind;Dynoro;2018-06-08;184.56;83;False;0.694;0.176;0.694;0.77;1.1e-05;0.118;-5.335;0.149;125.905;4;6;1;0.163
+492;Calma - Remix;Calma (Remix);Pedro Capó;2018-10-05;238.2;79;False;0.826;0.323;0.826;0.773;0.0;0.143;-4.218;0.0524;126.899;4;11;0;0.761
+493;Taste (feat. Offset);Legendary;Tyga;2019-06-07;229.21;79;True;0.866;0.0293;0.866;0.613;0.0;0.104;-6.385;0.151;98.001;4;0;1;0.359
+494;X;Intimo;Nicky Jam;2019-11-01;172.854;79;False;0.594;0.0338;0.594;0.749;0.00106;0.3;-5.298;0.056;179.968;4;9;0;0.694
+495;Mo Bamba;MUDBOY;Sheck Wes;2018-10-05;183.906;82;True;0.729;0.194;0.729;0.625;0.00986;0.248;-5.266;0.0315;146.034;4;4;1;0.261
+496;Don't Call Me Up;Ivy To Roses (Mixtape);Mabel;2019-01-18;178.48;82;False;0.674;0.296;0.674;0.881;3.01e-06;0.0793;-2.853;0.147;98.994;4;9;1;0.234
+497;ROXANNE;ROXANNE;Arizona Zervas;2019-10-10;163.636;84;True;0.621;0.0522;0.621;0.601;0.0;0.46;-5.616;0.148;116.735;5;6;0;0.457
+498;Body;Body;Loud Luxury;2017-10-27;163.216;77;False;0.752;0.0476;0.752;0.764;9.44e-05;0.0543;-4.399;0.038;121.958;4;1;1;0.582
+499;Me Niego (feat. Ozuna & Wisin);Ahora;Reik;2019-05-31;221.653;77;False;0.777;0.0505;0.777;0.782;0.0;0.64;-4.435;0.0907;94.023;4;0;0;0.773
+500;Déjala Que Vuelva (feat. Manuel Turizo);Ubuntu;Piso 21;2018-05-11;220.116;76;False;0.681;0.0482;0.681;0.788;0.0;0.0753;-4.323;0.0785;170.019;4;1;1;0.839
+501;All The Stars (with SZA);Black Panther The Album Music From And Inspired By;Kendrick Lamar;2018-02-09;232.186;85;True;0.698;0.0605;0.698;0.633;0.000194;0.0926;-4.946;0.0597;96.924;4;8;1;0.552
+502;Adan y Eva;Homerun;Paulo Londra;2019-05-23;256.971;77;False;0.767;0.323;0.767;0.709;0.0;0.0745;-4.47;0.336;171.993;4;1;1;0.72
+503;Felices los 4;F.A.M.E.;Maluma;2018-05-18;230.0;78;False;0.766;0.213;0.766;0.756;0.0;0.349;-5.861;0.132;94.027;4;5;1;0.716
+504;All Girls Are The Same;Goodbye & Good Riddance;Juice WRLD;2018-12-10;165.819;87;True;0.671;0.0769;0.671;0.529;0.000335;0.0856;-7.226;0.307;161.989;4;0;1;0.203
+505;Natural;Origins (Deluxe);Imagine Dragons;2018-11-09;189.466;85;False;0.704;0.217;0.704;0.611;0.0;0.0812;-6.112;0.0409;100.0;4;2;1;0.22
+506;Lalala;Lalala;Y2K;2019-06-28;160.626;80;True;0.843;0.178;0.843;0.39;0.0;0.137;-7.899;0.0846;129.972;4;2;1;0.495
+507;Piece Of Your Heart;Piece Of Your Heart;MEDUZA;2019-02-01;152.913;81;False;0.677;0.0404;0.677;0.744;0.00016;0.074;-6.806;0.0295;124.08;4;10;0;0.631
+508;Latch;Settle (Deluxe);Disclosure;2013-06-03;255.866;74;False;0.729;0.0178;0.729;0.735;0.000193;0.089;-5.455;0.0919;121.986;4;1;1;0.544
+509;everything i wanted;everything i wanted;Billie Eilish;2019-11-13;245.425;86;False;0.704;0.902;0.704;0.225;0.657;0.106;-14.454;0.0994;120.006;4;6;0;0.243
+510;Losing My Religion;Out Of Time (25th Anniversary Edition);R.E.M.;1991-03-12;268.426;86;False;0.666;0.179;0.666;0.855;1.2e-06;0.0987;-5.051;0.0295;125.639;4;9;0;0.803
+511;What Lovers Do (feat. SZA);Red Pill Blues (Deluxe);Maroon 5;2018-06-15;199.849;69;False;0.799;0.0788;0.799;0.597;5.66e-06;0.1;-5.131;0.0611;110.001;4;5;0;0.419
+512;Maps;V;Maroon 5;2014-09-02;189.96;86;False;0.742;0.0205;0.742;0.713;0.0;0.059;-5.522;0.0303;120.032;4;1;0;0.879
+513;Animals;V;Maroon 5;2014-09-02;231.013;84;False;0.279;0.000185;0.279;0.742;0.0;0.593;-6.46;0.0898;189.868;4;4;0;0.328
+514;i'm so tired...;~how i'm feeling~;Lauv;2020-03-06;162.586;81;False;0.576;0.178;0.576;0.736;0.0;0.238;-7.572;0.224;101.928;4;11;1;0.484
+515;Say So;Hot Pink;Doja Cat;2019-11-07;237.893;85;True;0.787;0.264;0.787;0.673;3.35e-06;0.0904;-4.583;0.159;110.962;4;11;0;0.779
+516;The Less I Know The Better;Currents;Tame Impala;2015-07-17;216.32;88;True;0.64;0.0115;0.64;0.74;0.00678;0.167;-4.083;0.0284;116.879;4;4;1;0.785
+517;Tusa;Tusa;KAROL G;2019-11-07;200.96;83;False;0.803;0.295;0.803;0.715;0.000134;0.0574;-3.28;0.298;101.085;4;2;1;0.574
+518;Hear Me Now (feat. Zeeba);Hear Me Now (feat. Zeeba);Alok;2016-10-21;194.84;78;False;0.778;0.546;0.778;0.463;0.00289;0.0731;-7.603;0.0389;121.999;4;11;1;0.496
+519;Classic;MKTO;MKTO;2012;175.426;87;False;0.72;0.0384;0.72;0.791;0.0;0.157;-4.689;0.124;102.071;4;1;1;0.756
+520;Am I Wrong;Black Star Elephant;Nico & Vinz;2014;245.866;81;False;0.729;0.175;0.729;0.675;1.58e-06;0.55;-6.003;0.0312;119.968;4;8;1;0.779
+521;Exchange;T R A P S O U L;Bryson Tiller;2015-10-02;194.613;81;True;0.525;0.107;0.525;0.433;0.0;0.135;-10.598;0.185;160.108;4;6;1;0.276
+522;Caroline;Good For You;Aminé;2017-07-28;209.64;80;True;0.94;0.17;0.94;0.335;0.0;0.262;-10.179;0.505;120.04;4;5;0;0.707
+523;Feel Good Inc.;Demon Days;Gorillaz;2005-05-23;222.64;87;False;0.818;0.00836;0.818;0.705;0.00233;0.613;-6.679;0.177;138.559;4;6;1;0.772
+524;Ride It;Ride It;Regard;2019-07-26;157.605;86;False;0.88;0.177;0.88;0.751;6.43e-05;0.106;-4.258;0.0874;117.948;4;7;0;0.884
+525;Lost In Japan;Shawn Mendes;Shawn Mendes;2018-05-25;201.2;76;False;0.713;0.255;0.713;0.738;0.0;0.106;-6.784;0.374;105.027;4;10;1;0.425
+526;If I Can't Have You;Shawn Mendes (Deluxe);Shawn Mendes;2019-06-19;191.466;75;False;0.691;0.487;0.691;0.823;0.0;0.134;-4.197;0.0623;123.935;4;2;1;0.87
+527;Intentions (feat. Quavo);Changes;Justin Bieber;2020-02-14;212.866;80;False;0.806;0.3;0.806;0.546;0.0;0.102;-6.637;0.0575;147.986;4;9;1;0.874
+528;ocean eyes;Ocean Eyes;Billie Eilish;2016-11-18;200.56;69;False;0.475;0.819;0.475;0.37;0.0577;0.0841;-7.725;0.0361;144.828;4;4;0;0.157
+529;idontwannabeyouanymore;dont smile at me;Billie Eilish;2017-12-22;203.569;84;False;0.483;0.737;0.483;0.412;0.0;0.116;-8.461;0.0402;170.163;3;7;1;0.247
+530;Roar;PRISM;Katy Perry;2013-01-01;223.546;81;False;0.671;0.00492;0.671;0.771;7.28e-06;0.354;-4.821;0.0316;90.003;4;7;0;0.436
+531;Here Comes The Sun - Remastered 2009;Abbey Road (Remastered);The Beatles;1969-09-26;185.733;85;False;0.557;0.0339;0.557;0.54;0.00248;0.179;-10.484;0.0347;129.171;4;9;1;0.394
+532;Adore You;Fine Line;Harry Styles;2019-12-13;207.133;87;False;0.676;0.0237;0.676;0.771;0,000007;0.102;-3.675;0.0483;99.048;4;8;1;0.569
+533;Bad Liar;Origins (Deluxe);Imagine Dragons;2018-11-09;260.773;83;False;0.383;0.0722;0.383;0.637;0.0;0.368;-6.993;0.0703;177.913;4;3;1;0.0827
+534;Beautiful (feat. Camila Cabello);Beautiful (feat. Camila Cabello);Bazzi;2018-08-02;180.0;78;False;0.638;0.346;0.638;0.717;0.0;0.105;-4.722;0.0337;100.027;4;2;1;0.249
+535;Safe And Sound;In A Tidal Wave Of Mystery (Deluxe Edition);Capital Cities;2013;192.789;87;False;0.655;0.000176;0.655;0.819;0.00374;0.104;-4.852;0.0316;117.956;5;0;1;0.766
+536;death bed (coffee for your head);death bed (coffee for your head);Powfu;2020-02-08;173.333;88;False;0.726;0.731;0.726;0.431;0.0;0.696;-8.765;0.135;144.026;4;8;0;0.348
+537;Praise The Lord (Da Shine) (feat. Skepta);TESTING;A$AP Rocky;2018-05-25;205.04;85;True;0.854;0.0609;0.854;0.569;0.0816;0.1;-8.151;0.106;80.015;4;5;0;0.294
+538;Swervin (feat. 6ix9ine);Hoodie SZN;A Boogie Wit da Hoodie;2018-12-21;189.486;80;True;0.581;0.0153;0.581;0.662;0.0;0.111;-5.239;0.303;93.023;4;9;1;0.434
+539;Life Is Good (feat. Drake);High Off Life;Future;2020-05-15;237.918;78;True;0.795;0.067;0.795;0.574;0.0;0.15;-6.903;0.487;142.053;4;2;0;0.537
+540;Savage Love (Laxed - Siren Beat);Savage Love (Laxed - Siren Beat);Jawsh 685;2020-06-11;171.374;83;True;0.767;0.234;0.767;0.481;0.0;0.269;-8.52;0.0803;150.076;4;0;0;0.761
+541;I Miss You (feat. Julia Michaels);What Is Love? (Deluxe Edition);Clean Bandit;2018-11-30;205.986;75;False;0.693;0.299;0.693;0.624;7.64e-06;0.0955;-7.482;0.0448;105.002;4;0;0;0.369
+542;Issues;Nervous System;Julia Michaels;2017-07-28;176.32;79;False;0.728;0.401;0.728;0.415;0.0;0.0616;-6.852;0.0639;114.145;4;8;1;0.455
+543;All The Small Things;Enema Of The State;blink-182;1999-06-01;167.066;84;False;0.434;0.0103;0.434;0.897;0.0;0.612;-4.918;0.0488;148.726;4;0;1;0.684
+544;Ahora Dice;Ahora Dice;Chris Jedi;2017-03-17;271.08;2;False;0.704;0.249;0.704;0.69;0.0;0.123;-5.451;0.16;144.045;4;6;1;0.402
+545;Freaky Friday (feat. Chris Brown);Freaky Friday (feat. Chris Brown);Lil Dicky;2018-03-15;216.631;75;True;0.755;0.147;0.755;0.599;0.0;0.109;-5.042;0.224;133.123;4;8;1;0.755
+546;Bitter Sweet Symphony;Urban Hymns (Remastered 2016);The Verve;1997-09-29;357.266;83;False;0.356;0.0335;0.356;0.917;0.0;0.406;-6.006;0.0479;171.176;4;9;1;0.518
+547;Somebody To Love - Remastered 2011;A Day At The Races (Deluxe Remastered Version);Queen;1976-12-10;296.493;72;False;0.497;0.19;0.497;0.693;0.0;0.215;-7.024;0.0565;111.539;3;8;1;0.358
+548;"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack";I Don't Want To Miss A Thing EP;Aerosmith;1998-08-18;299.76;79;False;0.39;0.172;0.39;0.649;0.0;0.216;-5.163;0.0345;121.16;4;2;1;0.144
+549;Robbery;Death Race For Love;Juice WRLD;2019-03-08;240.05;69;True;0.685;0.328;0.685;0.692;0.0;0.153;-5.122;0.0457;159.966;5;2;1;0.578
+550;ME! (feat. Brendon Urie of Panic! At The Disco);Lover;Taylor Swift;2019-08-23;193.0;80;False;0.61;0.033;0.61;0.83;0.0;0.118;-4.105;0.0571;182.162;4;0;1;0.728
+551;Set Fire to the Rain;21;Adele;2011-01-19;241.693;3;False;0.61;0.00382;0.61;0.683;1.79e-06;0.125;-3.879;0.0253;108.003;4;2;0;0.466
+552;No Limit;The Beautiful & Damned;G-Eazy;2017-12-15;245.386;76;True;0.838;0.0117;0.838;0.771;0.0;0.0853;-3.791;0.244;175.957;4;1;1;0.405
+553;10,000 Hours (with Justin Bieber);10,000 Hours (with Justin Bieber);Dan + Shay;2019-10-04;167.693;83;False;0.654;0.153;0.654;0.63;0.0;0.111;-4.644;0.0259;89.991;4;10;1;0.43
+554;Lemonade (feat. Gunna, Don Toliver & NAV);B4 The Storm;Internet Money;2020-08-28;195.428;82;True;0.8;0.25;0.8;0.658;0.0;0.111;-6.142;0.079;140.042;4;1;0;0.462
+555;For The Night (feat. Lil Baby & DaBaby);Shoot For The Stars Aim For The Moon;Pop Smoke;2020-07-03;190.476;86;True;0.823;0.114;0.823;0.586;0.0;0.193;-6.606;0.2;125.971;4;6;0;0.347
+556;Rocket Man (I Think It's Going To Be A Long, Long Time);Honky Chateau;Elton John;1972-05-19;281.613;85;False;0.601;0.432;0.601;0.532;6.25e-06;0.0925;-9.119;0.0286;136.571;4;10;1;0.341
+557;Stolen Dance;Sadnecessary;Milky Chance;2014-06-20;313.684;78;False;0.885;0.427;0.885;0.581;0.000204;0.0759;-8.813;0.0378;114.016;4;11;1;0.728
+558;Heather;Kid Krow;Conan Gray;2020-03-20;198.04;90;False;0.357;0.584;0.357;0.425;0.0;0.322;-7.301;0.0333;102.078;3;5;1;0.27
+559;Body Like A Back Road;SOUTHSIDE;Sam Hunt;2020-04-03;162.546;72;False;0.736;0.441;0.736;0.458;0.0;0.148;-7.437;0.0316;98.977;4;5;1;0.65
+560;Plain Jane;Still Striving;A$AP Ferg;2017-08-18;173.6;79;True;0.797;0.0651;0.797;0.844;0.0;0.087;-5.482;0.275;170.142;4;11;1;0.52
+561;positions;Positions;Ariana Grande;2020-10-30;172.324;89;True;0.737;0.468;0.737;0.802;0.0;0.0931;-4.771;0.0878;144.015;4;0;1;0.682
+562;LA CANCIÓN;OASIS;J Balvin;2019-06-28;242.573;90;False;0.754;0.152;0.754;0.646;1.85e-05;0.108;-5.795;0.317;176.089;4;7;1;0.429
+563;All Time Low;The Human Condition;Jon Bellion;2016-06-10;217.603;74;True;0.617;0.0584;0.617;0.567;0.0;0.0933;-4.188;0.0828;90.246;4;0;1;0.505
+564;How Far I'll Go - Alessia Cara Version;Moana (Original Motion Picture Soundtrack/Deluxe Edition);Various Artists;2016-11-18;175.506;70;False;0.31;0.163;0.31;0.54;0.000129;0.0713;-9.629;0.346;180.994;4;9;1;0.148
+565;Make You Feel My Love;19;Adele;2008-01-28;212.04;77;False;0.317;0.907;0.317;0.172;0.000383;0.105;-10.636;0.0326;65.18;3;10;1;0.0963
+566;Never Be Like You (feat. Kai);Skin;Flume;2016-05-27;234.909;71;True;0.444;0.453;0.444;0.557;0.0;0.152;-5.476;0.0602;115.058;4;0;1;0.296
+567;Sorry Not Sorry;Tell Me You Love Me (Deluxe);Demi Lovato;2017-09-29;203.76;8;True;0.705;0.0237;0.705;0.64;0.0;0.262;-6.928;0.225;144.077;4;11;0;0.887
+568;Stuck with U (with Justin Bieber);Stuck with U;Ariana Grande;2020-05-08;228.482;87;False;0.597;0.223;0.597;0.45;0.0;0.382;-6.658;0.0418;178.765;3;8;1;0.537
+569;Best Part (feat. H.E.R.);Freudian;Daniel Caesar;2017-08-25;209.831;81;False;0.524;0.808;0.524;0.364;0.0;0.1;-10.209;0.0367;75.24;4;7;1;0.436
+570;Blank Space;1989;Taylor Swift;2014-10-27;231.826;79;False;0.753;0.085;0.753;0.678;1.64e-06;0.13;-5.421;0.0644;96.006;4;5;1;0.583
+571;You Need To Calm Down;Lover;Taylor Swift;2019-08-23;171.36;81;False;0.771;0.00929;0.771;0.671;0.0;0.0637;-5.617;0.0553;85.026;4;2;1;0.714
+572;Otherside;Californication (Deluxe Edition);Red Hot Chili Peppers;1999-06-08;255.373;82;False;0.458;0.00316;0.458;0.795;0.000202;0.0756;-3.265;0.0574;123.229;4;0;1;0.513
+573;Close To Me;Brightest Blue;Ellie Goulding;2020-07-17;182.626;65;True;0.572;0.0946;0.572;0.75;0.0;0.378;-5.042;0.0604;144.081;4;1;0;0.475
+574;The Chain - 2004 Remaster;Rumours (Super Deluxe);Fleetwood Mac;1977-02-04;270.213;84;False;0.545;0.009;0.545;0.67;0.000822;0.0451;-8.81;0.0496;151.553;4;9;1;0.481
+575;Go Your Own Way - 2004 Remaster;Rumours (Super Deluxe);Fleetwood Mac;1977-02-04;223.613;72;False;0.586;0.0167;0.586;0.941;0.000776;0.068;-5.139;0.0375;135.448;4;5;1;0.831
+576;Mr. Blue Sky;Out of the Blue;Electric Light Orchestra;1977;303.373;84;False;0.388;0.652;0.388;0.338;3.73e-06;0.248;-10.054;0.0329;177.765;4;10;1;0.478
+577;Supalonely (feat. Gus Dapperton);Hey u x;BENEE;2020-11-13;223.488;68;True;0.862;0.291;0.862;0.631;0.000209;0.123;-4.746;0.0515;128.978;4;7;1;0.841
+578;Hey There Delilah;All That We Needed;Plain White T's;2005-01-01;232.533;83;False;0.656;0.872;0.656;0.291;0.0;0.114;-10.572;0.0293;103.971;4;2;1;0.298
+579;Rain On Me (with Ariana Grande);Chromatica;Lady Gaga;2020-05-29;182.2;80;False;0.672;0.021;0.672;0.855;0.0;0.323;-3.764;0.0397;123.056;4;9;1;0.646
+580;Bad Romance;The Fame Monster (Deluxe Edition);Lady Gaga;2009-11-05;294.573;85;True;0.696;0.00314;0.696;0.921;5.24e-05;0.0842;-3.755;0.0363;119.001;4;0;1;0.714
+581;Always Remember Us This Way;A Star Is Born Soundtrack (Without Dialogue);Lady Gaga;2018-10-05;210.2;83;False;0.553;0.299;0.553;0.502;0.0;0.764;-5.972;0.0409;129.976;4;0;1;0.296
+582;Poker Face;The Fame;Lady Gaga;2008-01-01;237.2;79;False;0.851;0.118;0.851;0.806;1.64e-06;0.121;-4.62;0.0787;118.999;4;4;1;0.787
+583;Million Reasons;Joanne (Deluxe);Lady Gaga;2016-10-21;205.28;80;False;0.666;0.494;0.666;0.423;0.0;0.106;-8.012;0.043;129.89;4;0;1;0.154
+584;Wild Ones (feat. Sia);Wild Ones;Flo Rida;2012-06-22;232.946;82;False;0.608;0.0991;0.608;0.86;0.0;0.262;-5.324;0.0554;127.075;4;5;0;0.437
+585;Best Friend (feat. Doja Cat);Best Friend (feat. Doja Cat);Saweetie;2021-01-07;155.883;82;True;0.84;0.00302;0.84;0.766;3.61e-06;0.0684;-4.12;0.136;94.018;4;4;1;0.402
+586;you broke me first;you broke me first;Tate McRae;2020-04-17;169.265;89;False;0.667;0.785;0.667;0.373;0.0;0.0906;-9.389;0.05;124.148;4;4;1;0.0823
+587;Never Really Over;Smile;Katy Perry;2020-08-28;223.297;69;False;0.77;0.217;0.77;0.881;0.0;0.324;-4.776;0.067;99.995;4;8;1;0.367
+588;Kryptonite;The Better Life;3 Doors Down;2000;233.933;83;False;0.545;0.00664;0.545;0.865;1.1e-05;0.168;-5.708;0.0286;99.009;4;11;0;0.543
+589;The Sound of Silence;Immortalized (Deluxe Edition);Disturbed;2015-08-15;248.466;75;False;0.322;0.468;0.322;0.28;1.1e-06;0.102;-9.367;0.0281;85.794;4;6;0;0.175
+590;Gold;lil kiiwi;Kiiara;2020-10-09;225.882;64;False;0.6;0.615;0.6;0.412;0.0026;0.134;-9.343;0.344;113.05;5;5;0;0.408
+591;Sunset Lover;Presence;Petit Biscuit;2017-11-10;238.906;72;False;0.785;0.669;0.785;0.525;0.439;0.114;-7.556;0.042;90.853;4;6;1;0.251
+592;There for You;There for You;Martin Garrix;2017-05-26;221.904;73;False;0.611;0.124;0.611;0.644;0.0;0.124;-7.607;0.0553;105.969;4;6;0;0.13
+593;Get You The Moon (feat. Snøw);Get You The Moon (feat. Snøw);Kina;2018-10-08;179.08;84;False;0.498;0.72;0.498;0.235;0.0;0.144;-16.541;0.188;118.917;4;1;0;0.0895
+594;UN DIA (ONE DAY);JOSE;J Balvin;2021-09-10;232.146;72;False;0.58;0.00638;0.58;0.695;0.0;0.174;-8.244;0.0671;168.124;4;6;0;0.402
+595;Loco Contigo (feat. J. Balvin & Tyga);Carte Blanche;DJ Snake;2019-07-25;185.194;79;False;0.694;0.278;0.694;0.758;1.34e-06;0.102;-2.986;0.218;192.091;4;11;1;0.371
+596;Lose Control;Lose Control;MEDUZA;2019-10-11;168.387;83;False;0.598;0.129;0.598;0.526;0.0;0.14;-8.659;0.0415;123.935;4;10;0;0.529
+597;Physical;Future Nostalgia;Dua Lipa;2020-03-27;193.829;66;False;0.647;0.0137;0.647;0.844;0.000658;0.102;-3.756;0.0457;146.967;4;0;1;0.746
+598;You Don't Know Me (feat. RAYE);Snacks;Jax Jones;2019-07-12;212.573;71;True;0.879;0.164;0.879;0.665;0.0;0.319;-6.082;0.145;123.977;4;11;0;0.672
+599;Holy (feat. Chance The Rapper);Justice;Justin Bieber;2021-03-19;212.093;75;False;0.67;0.2;0.67;0.693;0.0;0.0909;-8.34;0.35;87.017;4;6;1;0.388
+600;Déjala Que Vuelva (feat. Manuel Turizo);Ubuntu;Piso 21;2018-05-11;220.116;76;False;0.681;0.0482;0.681;0.788;0.0;0.0753;-4.323;0.0785;170.019;4;1;1;0.839
+601;Lonely (with benny blanco);Justice;Justin Bieber;2021-03-19;149.189;77;True;0.619;0.9;0.619;0.241;0.0;0.116;-7.102;0.046;79.461;4;11;0;0.0719
+602;Magic;Ghost Stories;Coldplay;2014-05-19;285.014;76;False;0.738;0.0266;0.738;0.482;0.621;0.106;-8.917;0.0402;93.457;4;6;0;0.352
+603;I Gotta Feeling;THE E.N.D. (THE ENERGY NEVER DIES);Black Eyed Peas;2009-01-01;289.133;58;False;0.743;0.0873;0.743;0.766;0.0;0.509;-6.375;0.0265;127.96;4;0;1;0.61
+604;RITMO (Bad Boys For Life);TRANSLATION;Black Eyed Peas;2020-11-02;214.854;70;True;0.732;0.0295;0.732;0.716;0.000758;0.73;-6.968;0.0561;105.093;4;10;0;0.666
+605;Where Is The Love?;Elephunk;Black Eyed Peas;2003;272.533;74;False;0.834;0.11;0.834;0.696;0.0;0.13;-3.224;0.197;94.09;4;5;1;0.804
+606;All Night;Night & Day (Night Edition);The Vamps;2017-07-14;197.64;78;False;0.538;0.0041;0.538;0.804;0.0;0.33;-5.194;0.0358;144.992;4;8;1;0.507
+607;2U (feat. Justin Bieber);2U (feat. Justin Bieber);David Guetta;2017-06-09;194.896;72;False;0.548;0.219;0.548;0.65;0.0;0.225;-5.827;0.0591;144.937;4;8;0;0.557
+608;Bruises;Divinely Uninspired To A Hellish Extent;Lewis Capaldi;2019-05-17;220.492;84;False;0.736;0.946;0.736;0.308;0.0;0.186;-7.83;0.0677;111.202;4;4;1;0.361
+609;Bleeding Love;Spirit;Leona Lewis;2007;262.466;80;False;0.638;0.188;0.638;0.656;0.0;0.146;-5.886;0.0357;104.036;4;5;1;0.225
+610;Stay;Unapologetic (Deluxe Version);Rihanna;2013-01-01;240.706;53;False;0.621;0.945;0.621;0.31;6.12e-05;0.117;-10.164;0.0283;111.893;4;9;0;0.125
+611;Diamonds;Unapologetic (Deluxe Version);Rihanna;2013-01-01;225.146;23;False;0.564;0.00125;0.564;0.71;0.0;0.109;-4.92;0.0461;91.972;4;11;0;0.393
+612;Grenade;Doo-Wops & Hooligans;Bruno Mars;2010-10-05;222.091;81;False;0.704;0.148;0.704;0.558;0.0;0.107;-7.273;0.0542;110.444;4;2;0;0.245
+613;The Lazy Song;Doo-Wops & Hooligans;Bruno Mars;2010-10-05;189.109;76;False;0.794;0.3;0.794;0.711;0.0;0.0955;-5.124;0.0699;174.915;4;8;0;0.955
+614;Marry You;Doo-Wops & Hooligans;Bruno Mars;2010-10-05;230.192;78;False;0.621;0.332;0.621;0.82;0.0;0.104;-4.865;0.0367;144.905;4;10;1;0.452
+615;Talking to the Moon;Doo-Wops & Hooligans;Bruno Mars;2010-10-05;217.866;86;False;0.498;0.511;0.498;0.59;0.0;0.107;-4.721;0.032;145.867;4;1;0;0.0784
+616;All About That Bass;Title (Deluxe);Meghan Trainor;2015-01-09;187.92;77;True;0.807;0.0573;0.807;0.887;2.87e-06;0.124;-3.726;0.0503;134.052;4;9;1;0.961
+617;If I Ain't Got You;The Diary Of Alicia Keys;Alicia Keys;2003-12-02;228.706;83;False;0.609;0.603;0.609;0.444;6.86e-06;0.104;-9.129;0.106;118.402;3;7;1;0.166
+618;No One;As I Am (Expanded Edition);Alicia Keys;2007-11-09;253.813;82;False;0.644;0.0209;0.644;0.549;8.85e-06;0.134;-5.415;0.0285;90.04;4;1;0;0.167
+619;If the World Was Ending (feat. Julia Michaels);If the World Was Ending (feat. Julia Michaels);JP Saxe;2019-10-17;208.687;83;False;0.464;0.866;0.464;0.473;0.0;0.109;-10.086;0.129;75.801;4;1;1;0.604
+620;Hold Back The River;Chaos And The Calm;James Bay;2014-12-15;238.746;68;False;0.715;0.0526;0.715;0.715;0.0;0.0936;-7.364;0.0904;134.923;4;5;1;0.506
+621;Jealous;Jealous - EP;Labrinth;2014-11-23;287.693;81;False;0.439;0.874;0.439;0.153;0.0;0.107;-8.95;0.0479;116.76;3;1;1;0.104
+622;Lost Boy;Safe Haven;Ruth B.;2017-05-05;276.066;72;False;0.586;0.963;0.586;0.128;0.0;0.0858;-9.297;0.0496;123.498;4;7;1;0.371
+623;What Makes You Beautiful;Up All Night;One Direction;2012-05-25;199.986;87;False;0.726;0.009;0.726;0.787;0.0;0.0596;-2.494;0.0737;124.99;4;4;1;0.888
+624;The Reason;The Reason (15th Anniversary Deluxe);Hoobastank;2003-12-09;232.8;84;False;0.472;0.0129;0.472;0.671;0.0;0.159;-4.649;0.029;82.952;4;4;1;0.0681
+625;Saturday Nights;Free Spirit;Khalid;2019-04-05;211.626;68;False;0.574;0.634;0.574;0.37;9.4e-05;0.0986;-10.803;0.0841;83.162;4;10;1;0.354
+626;You're Beautiful;Back to Bedlam;James Blunt;2005-08-08;209.493;80;True;0.675;0.633;0.675;0.479;1.76e-05;0.088;-9.87;0.0278;81.998;4;0;0;0.454
+627;Attention;Voicenotes;Charlie Puth;2018-05-11;208.786;85;False;0.775;0.109;0.775;0.613;2.33e-05;0.134;-4.586;0.0542;100.066;4;3;0;0.797
+628;How Long;Voicenotes;Charlie Puth;2018-05-11;200.853;77;False;0.845;0.211;0.845;0.561;3.49e-06;0.0383;-5.253;0.0778;109.974;4;1;0;0.811
+629;One Call Away;Nine Track Mind;Charlie Puth;2016-01-29;194.453;70;False;0.667;0.403;0.667;0.613;0.0;0.115;-5.353;0.0344;91.024;4;1;1;0.47
+630;Better Together;In Between Dreams;Jack Johnson;2005-01-01;207.68;74;False;0.868;0.308;0.868;0.347;0,00002;0.11;-9.529;0.0536;110.059;4;5;1;0.659
+631;Love Someone;3 (The Purple Album);Lukas Graham;2018-10-26;205.44;74;False;0.538;0.172;0.538;0.409;0.0;0.11;-6.581;0.0505;171.838;4;9;0;0.265
+632;Breakeven;The Script;The Script;2008-07-14;261.426;78;False;0.63;0.144;0.63;0.696;0.0;0.0835;-4.501;0.0242;94.034;4;10;1;0.491
+633;3 Nights;Don't Forget About Me, Demos;Dominic Fike;2018-10-16;177.666;78;False;0.815;0.223;0.815;0.518;0.0;0.104;-6.594;0.0897;151.891;4;7;0;0.877
+634;Kiss Me More (feat. SZA);Planet Her;Doja Cat;2021-06-25;208.666;89;True;0.764;0.259;0.764;0.705;8.92e-05;0.12;-3.463;0.0284;110.97;4;8;1;0.781
+635;Boss Bitch;Boss Bitch;Doja Cat;2020-01-23;134.239;84;False;0.707;0.127;0.707;0.955;0.0;0.202;-4.593;0.222;125.989;4;10;0;0.575
+636;Electric Love;Dopamine;BØRNS;2015-10-16;218.106;87;False;0.611;0.00543;0.611;0.797;0.00137;0.26;-7.627;0.0533;120.041;4;6;0;0.518
+637;Mayores;MALA SANTA;Becky G;2019-10-18;203.186;74;False;0.745;0.145;0.745;0.836;0.00314;0.116;-4.336;0.0444;96.993;4;5;0;0.874
+638;Shower;Shower;Becky G;2014-04-23;206.166;82;False;0.699;0.0317;0.699;0.529;3.59e-05;0.285;-7.548;0.0487;119.987;4;2;1;0.121
+639;Higher Love;Golden Hour;Kygo;2020-05-29;228.267;74;False;0.693;0.0151;0.693;0.678;5.71e-06;0.101;-7.159;0.0324;103.952;4;8;1;0.404
+640;Fireflies;Ocean Eyes;Owl City;2009-01-01;228.346;83;False;0.512;0.0275;0.512;0.662;0.0;0.118;-6.797;0.0439;180.114;4;3;1;0.472
+641;Come & Go (with Marshmello);Legends Never Die;Juice WRLD;2020-07-10;205.484;86;True;0.625;0.0172;0.625;0.814;0.0;0.158;-5.181;0.0657;144.991;4;0;1;0.535
+642;The Business;The Business;Tiësto;2020-09-16;164.0;89;False;0.798;0.414;0.798;0.62;0.0192;0.112;-7.079;0.232;120.031;4;8;0;0.235
+643;Jackie Chan;The London Sessions;Tiësto;2020-05-15;215.759;70;True;0.747;0.374;0.747;0.833;0.0;0.0586;-2.867;0.045;128.008;4;3;0;0.687
+644;Rewrite The Stars;Rewrite The Stars;Zac Efron;2017-11-17;217.44;77;False;0.684;0.0716;0.684;0.619;0.0;0.122;-7.005;0.0386;125.046;4;10;1;0.284
+645;When You Love Someone;Chapters;James TW;2019-04-26;216.56;79;False;0.681;0.263;0.681;0.453;0.0;0.0543;-6.09;0.0278;125.772;4;7;1;0.348
+646;Falling;Fine Line;Harry Styles;2019-12-13;240.133;88;False;0.567;0.839;0.567;0.267;1.46e-06;0.089;-6.502;0.0299;110.011;4;4;1;0.0592
+647;What You Know Bout Love;Shoot For The Stars Aim For The Moon;Pop Smoke;2020-07-03;160.0;86;True;0.709;0.65;0.709;0.548;1.59e-06;0.133;-8.493;0.353;83.995;4;10;1;0.543
+648;Dior;Meet The Woo;Pop Smoke;2019-07-26;216.386;86;True;0.548;0.212;0.548;0.805;0.000389;0.408;-5.732;0.351;142.094;4;7;1;0.648
+649;WHATS POPPIN;Sweet Action;Jack Harlow;2020-03-13;139.741;83;True;0.923;0.017;0.923;0.604;0.0;0.272;-6.671;0.245;145.062;4;11;0;0.826
+650;Shout Out to My Ex;Glory Days (Expanded Edition);Little Mix;2016-11-18;246.24;81;False;0.773;0.0242;0.773;0.747;8.99e-06;0.109;-4.061;0.0885;126.014;4;5;1;0.801
+651;South of the Border (feat. Camila Cabello & Cardi B);No.6 Collaborations Project;Ed Sheeran;2019-07-12;204.466;81;False;0.857;0.148;0.857;0.621;0.0;0.0865;-6.376;0.0825;97.989;4;9;0;0.668
+652;ily (i love you baby) (feat. Emilee);ily (i love you baby) (feat. Emilee);Surf Mesa;2019-11-26;176.546;83;False;0.674;0.0686;0.674;0.774;0.00188;0.393;-7.567;0.0892;112.05;4;11;0;0.33
+653;All My Friends (feat. Tinashe & Chance the Rapper);All My Friends (feat. Tinashe & Chance the Rapper);Snakehips;2015-10-21;229.746;77;True;0.681;0.12;0.681;0.521;8.41e-05;0.108;-5.849;0.141;94.997;4;0;1;0.181
+654;Summer;Motion;Calvin Harris;2014-10-31;222.533;86;False;0.596;0.0211;0.596;0.856;0.0178;0.141;-3.556;0.0346;127.949;4;4;0;0.743
+655;Blame (feat. John Newman);Motion;Calvin Harris;2014-10-31;212.96;80;False;0.414;0.0287;0.414;0.857;0.00574;0.343;-4.078;0.0808;128.024;4;0;0;0.348
+656;deja vu;SOUR;Olivia Rodrigo;2021-05-21;215.506;91;True;0.442;0.584;0.442;0.612;5.7e-06;0.37;-7.222;0.112;180.917;4;2;1;0.178
+657;Leave The Door Open;Leave The Door Open;Bruno Mars;2021-03-05;242.096;85;False;0.586;0.182;0.586;0.616;0.0;0.0927;-7.964;0.0324;148.088;4;5;1;0.719
+658;American Idiot;American Idiot;Green Day;2004-09-21;176.346;82;True;0.38;2.64e-05;0.38;0.988;7.86e-05;0.368;-2.042;0.0639;186.113;4;1;1;0.769
+659;With Or Without You - Remastered;The Joshua Tree (Super Deluxe);U2;1987-03-03;295.515;83;False;0.54;0.000202;0.54;0.429;0.355;0.141;-11.822;0.0285;110.171;4;2;1;0.113
+660;Get You (feat. Kali Uchis);Freudian;Daniel Caesar;2017-08-25;278.179;84;False;0.658;0.422;0.658;0.294;5.2e-05;0.0749;-8.533;0.0321;74.038;4;4;0;0.358
+661;Let Me Love You;Turning Point;Mario;2004-12-06;249.093;69;False;0.622;0.163;0.622;0.593;0.0;0.0979;-8.352;0.0916;94.364;4;7;0;0.607
+662;Beggin';Chosen;Måneskin;2017-12-08;211.56;92;False;0.714;0.127;0.714;0.8;0.0;0.359;-4.808;0.0504;134.002;4;11;0;0.589
+663;Say My Name;The Writing's On The Wall;Destiny's Child;1999-07-27;271.333;80;False;0.713;0.273;0.713;0.678;0.0;0.149;-3.525;0.102;138.009;4;5;0;0.734
+664;Umbrella;Good Girl Gone Bad;Rihanna;2007-01-01;275.986;72;False;0.583;0.00864;0.583;0.829;0.0;0.0426;-4.603;0.134;174.028;4;1;1;0.575
+665;WITHOUT YOU;F*CK LOVE (SAVAGE);The Kid LAROI;2020-11-06;161.384;86;True;0.662;0.213;0.662;0.413;0.0;0.134;-7.357;0.0299;93.005;4;0;1;0.467
+666;Lonely Together (feat. Rita Ora);AVĪCI (01);Avicii;2017-08-10;181.812;74;False;0.655;0.134;0.655;0.666;2.12e-05;0.0683;-5.309;0.0612;102.977;4;5;1;0.272
+667;Brown Eyed Girl;Blowin' Your Mind!;Van Morrison;wrz-67;183.306;83;False;0.491;0.185;0.491;0.583;0.0;0.406;-10.964;0.0376;150.566;4;7;1;0.908
+668;Astronaut In The Ocean;Astronomical;Masked Wolf;2021-09-10;132.78;78;True;0.778;0.175;0.778;0.695;0.0;0.15;-6.865;0.0913;149.996;4;4;0;0.472
+669;Without You (feat. Sandro Cavazza);AVĪCI (01);Avicii;2017-08-10;181.672;82;True;0.662;0.00163;0.662;0.858;0.0;0.0456;-4.844;0.0428;133.993;4;2;1;0.295
+670;Head & Heart (feat. MNEK);Head & Heart (feat. MNEK);Joel Corry;2020-07-03;166.028;87;False;0.734;0.168;0.734;0.874;1.14e-05;0.0489;-3.158;0.0662;122.953;4;8;1;0.905
+671;Dynamite;The Rokstarr Hits Collection;Taio Cruz;2010-01-01;202.613;85;False;0.751;0.00379;0.751;0.783;0.0;0.036;-3.724;0.0859;119.975;4;4;1;0.816
+672;Give Me Everything (feat. Ne-Yo, Afrojack & Nayer);Planet Pit (Deluxe Version);Pitbull;2011-06-17;252.306;86;False;0.671;0.191;0.671;0.939;0.0;0.298;-3.206;0.161;129.024;4;8;1;0.53
+673;Stereo Hearts (feat. Adam Levine);The Papercut Chronicles II;Gym Class Heroes;2011-11-11;210.96;86;False;0.646;0.0319;0.646;0.795;0.0;0.267;-3.293;0.0976;89.99;4;9;1;0.796
+674;i love you;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;Billie Eilish;2019-03-29;291.796;84;False;0.421;0.952;0.421;0.131;0.00453;0.109;-18.435;0.0382;137.446;4;0;1;0.12
+675;wish you were gay;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;Billie Eilish;2019-03-29;221.543;79;False;0.853;0.39;0.853;0.351;9.38e-06;0.752;-10.198;0.241;118.028;4;7;1;0.282
+676;you should see me in a crown;WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?;Billie Eilish;2019-03-29;180.952;81;False;0.678;0.462;0.678;0.533;0.219;0.139;-10.485;0.186;150.455;4;4;1;0.323
+677;Hope;?;XXXTENTACION;2018-03-16;110.886;89;True;0.592;0.661;0.592;0.457;0.000331;0.146;-6.081;0.0603;146.04;4;9;0;0.225
+678;BICHOTA;KG0516;KAROL G;2021-03-26;178.693;76;True;0.864;0.204;0.864;0.658;0.000626;0.105;-4.105;0.154;163.922;4;1;0;0.865
+679;Butter;Butter (Hotter, Sweeter, Cooler);BTS;2021-06-04;164.441;58;False;0.759;0.00323;0.759;0.459;0.0;0.0906;-5.187;0.0948;109.997;4;8;1;0.695
+680;Daddy Issues;Wiped Out!;The Neighbourhood;2015-10-30;260.173;90;False;0.588;0.0678;0.588;0.521;0.149;0.123;-9.461;0.0329;85.012;4;10;1;0.337
+681;DUELE EL CORAZON (feat. Wisin);FINAL (Vol.1);Enrique Iglesias;2021-09-17;199.693;63;False;0.72;0.0904;0.72;0.909;0.0;0.137;-3.258;0.0952;91.022;4;8;0;0.877
+682;This Town;Flicker (Deluxe);Niall Horan;2017-10-20;232.852;82;False;0.677;0.712;0.677;0.401;0.0;0.116;-8.467;0.0308;111.825;4;9;1;0.195
+683;Kings & Queens;Heaven & Hell;Ava Max;2020-09-18;162.398;85;False;0.637;0.00786;0.637;0.69;0.0;0.124;-4.057;0.0405;129.857;4;1;0;0.457
+684;Night Changes;FOUR (Deluxe);One Direction;2014-11-17;226.6;87;False;0.672;0.859;0.672;0.52;0.0;0.115;-7.747;0.0353;120.001;4;8;1;0.37
+685;Darkside;Different World;Alan Walker;2018-12-14;211.68;78;False;0.43;0.131;0.43;0.606;0.0;0.173;-5.115;0.0431;169.988;4;4;0;0.123
+686;No Guidance (feat. Drake);Indigo;Chris Brown;2019-06-28;260.64;83;True;0.696;0.123;0.696;0.454;0.0;0.155;-6.756;0.153;92.928;4;1;0;0.136
+687;Versace on the Floor;24K Magic;Bruno Mars;2016-11-17;261.24;78;False;0.578;0.196;0.578;0.574;0.0;0.083;-6.209;0.0454;174.152;4;2;1;0.301
+688;Losin Control;There's Really A Wolf;Russ;2017-05-05;237.506;79;True;0.759;0.515;0.759;0.245;0.000154;0.102;-6.545;0.138;96.992;4;6;1;0.209
+689;Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit;Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit];Riton;2021-01-15;169.153;88;False;0.824;0.0076;0.824;0.862;0.000132;0.303;-3.424;0.126;122.98;4;2;1;0.801
+690;Supermarket Flowers;÷ (Deluxe);Ed Sheeran;2017-03-03;221.106;79;False;0.589;0.914;0.589;0.242;0.0;0.0887;-10.517;0.0442;89.749;4;6;1;0.257
+691;EARFQUAKE;IGOR;Tyler, The Creator;2019-05-17;190.066;85;True;0.554;0.23;0.554;0.498;5.98e-06;0.795;-8.866;0.0685;79.635;4;9;1;0.413
+692;Chill Bill (feat. J. Davi$ & Spooks);Chill Bill (feat. J. Davi$ & Spooks);Rob $tone;2016-06-17;177.184;81;True;0.886;0.0312;0.886;0.427;0.00099;0.0906;-10.028;0.145;108.034;4;6;1;0.23
+693;Crazy In Love (feat. Jay-Z);Dangerously In Love;Beyoncé;2003-06-24;236.133;81;False;0.646;0.00249;0.646;0.77;0.0;0.0715;-6.596;0.226;99.165;4;2;0;0.681
+694;Most Girls;Most Girls;Hailee Steinfeld;2017-04-28;204.4;77;False;0.756;0.0478;0.756;0.572;0.0;0.0853;-7.019;0.0763;102.986;4;9;1;0.417
+695;Love Myself;HAIZ;Hailee Steinfeld;2016-02-26;218.773;75;False;0.617;0.0026;0.617;0.759;0.0;0.419;-6.785;0.0678;122.924;4;0;0;0.324
+696;Love Me Harder;My Everything (Deluxe);Ariana Grande;2014-08-25;236.133;79;False;0.472;0.00937;0.472;0.714;0.0;0.0764;-4.389;0.0334;98.992;4;1;0;0.24
+697;Break My Heart;Future Nostalgia;Dua Lipa;2020-03-27;221.82;83;False;0.73;0.167;0.73;0.729;1.39e-06;0.349;-3.434;0.0884;113.011;4;4;0;0.467
+698;November Rain;Use Your Illusion I;Guns N' Roses;1991-09-17;536.066;83;False;0.294;0.0163;0.294;0.641;0.22;0.112;-9.316;0.0291;79.759;4;11;1;0.226
+699;Paradise City;Appetite For Destruction;Guns N' Roses;1987-07-21;405.6;76;True;0.268;0.0192;0.268;0.98;0.00709;0.182;-5.958;0.103;100.315;4;11;1;0.395
+700;Déjala Que Vuelva (feat. Manuel Turizo);Ubuntu;Piso 21;2018-05-11;220.116;76;False;0.681;0.0482;0.681;0.788;0.0;0.0753;-4.323;0.0785;170.019;4;1;1;0.839
+701;Ms. Jackson;Stankonia;Outkast;2000-10-31;270.506;87;True;0.843;0.143;0.843;0.806;0.0;0.0771;-5.946;0.269;94.948;4;4;0;0.613
+702;I Want It That Way;Millennium;Backstreet Boys;1999-05-18;213.306;84;False;0.689;0.257;0.689;0.694;0.0;0.148;-5.83;0.027;99.039;4;6;0;0.482
+703;Nevermind;Nevermind;Dennis Lloyd;2017-06-30;156.6;79;False;0.6;0.159;0.6;0.688;1.29e-05;0.409;-8.339;0.201;99.977;4;5;0;0.0793
+704;Save Your Tears (with Ariana Grande) (Remix);Save Your Tears (Remix);The Weeknd;2021-04-23;191.013;93;False;0.65;0.0215;0.65;0.825;2.44e-05;0.0936;-4.645;0.0325;118.091;4;0;1;0.593
+705;Save Your Tears;After Hours;The Weeknd;2020-03-20;215.626;92;True;0.68;0.0212;0.68;0.826;1.24e-05;0.543;-5.487;0.0309;118.051;4;0;1;0.644
+706;34+35;Positions;Ariana Grande;2020-10-30;173.71;87;True;0.83;0.237;0.83;0.585;0.0;0.248;-6.476;0.094;109.978;4;0;1;0.485
+707;Still D.R.E.;2001;Dr. Dre;1999-11-16;270.586;91;True;0.816;0.16;0.816;0.775;0.00031;0.0543;-3.323;0.234;93.431;4;11;1;0.527
+708;Use Somebody;Only By The Night;Kings of Leon;2008-09-23;230.76;80;False;0.276;0.00552;0.276;0.715;0.000417;0.201;-5.356;0.0432;137.028;4;0;1;0.173
+709;Sultans of Swing;Dire Straits;Dire Straits;1978-10-07;350.4;71;False;0.73;0.0632;0.73;0.868;0.0661;0.318;-7.325;0.0288;148.217;4;5;1;0.923
+710;Enter Sandman (Remastered);Metallica (Remastered);Metallica;1991-08-12;331.56;78;False;0.566;0.00277;0.566;0.834;0.008;0.0625;-8.412;0.0298;123.296;4;6;0;0.621
+711;Nothing Else Matters (Remastered);Metallica (Remastered);Metallica;1991-08-12;388.733;73;False;0.547;0.0522;0.547;0.394;6.4e-06;0.0795;-9.793;0.0262;142.37;3;4;0;0.17
+712;idfc;deadroses;blackbear;2015-02-14;245.172;81;True;0.63;0.611;0.63;0.5;4.04e-05;0.114;-8.755;0.0611;144.871;4;1;0;0.315
+713;The Real Slim Shady;The Marshall Mathers LP;Eminem;2000-05-23;284.2;92;True;0.949;0.0302;0.949;0.661;0.0;0.0454;-4.244;0.0572;104.504;4;5;0;0.76
+714;Godzilla (feat. Juice WRLD);Music To Be Murdered By;Eminem;2020-01-17;210.8;89;True;0.808;0.145;0.808;0.745;0.0;0.292;-5.26;0.342;165.995;4;10;0;0.829
+715;Not Afraid;Recovery;Eminem;2010-06-18;248.133;84;True;0.855;0.529;0.855;0.954;0.0;0.205;-1.19;0.264;114.635;5;0;0;0.668
+716;Replay;Replay;Iyaz;2009-08-11;182.306;77;False;0.706;0.173;0.706;0.751;0.0;0.168;-6.323;0.0708;91.031;4;9;1;0.195
+717;Bad Habits;=;Ed Sheeran;2021-10-29;230.746;96;False;0.807;0.0451;0.807;0.893;2.79e-05;0.366;-3.745;0.0347;126.011;4;11;0;0.537
+718;Heartbreak Anniversary;TAKE TIME;Giveon;2020-03-27;198.37;87;False;0.449;0.524;0.449;0.465;1.02e-06;0.303;-8.964;0.0791;89.087;3;0;1;0.543
+719;Low (feat. T-Pain);Mail on Sunday;Flo Rida;2008-03-17;231.4;85;False;0.918;0.0928;0.918;0.609;0.0;0.139;-5.64;0.0791;128.008;4;10;0;0.304
+720;Renegades;VHS;X Ambassadors;2015-06-30;195.2;80;False;0.526;0.0144;0.526;0.862;0.0597;0.229;-6.003;0.0905;90.052;4;2;1;0.528
+721;Unsteady;VHS;X Ambassadors;2015-06-30;193.546;78;False;0.389;0.178;0.389;0.665;0.000732;0.116;-6.169;0.0644;117.055;4;0;1;0.199
+722;INDUSTRY BABY (feat. Jack Harlow);MONTERO;Lil Nas X;2021-09-17;212.352;91;True;0.741;0.0221;0.741;0.691;0.0;0.0476;-7.395;0.0672;150.087;4;10;0;0.892
+723;Dancing Queen;Arrival;ABBA;1976;230.4;85;False;0.543;0.358;0.543;0.87;0.000939;0.792;-6.514;0.0428;100.804;4;9;1;0.754
+724;I WANNA BE YOUR SLAVE;Teatro d'ira - Vol. I;Måneskin;2021-03-19;173.346;89;True;0.75;0.00165;0.75;0.608;0.0;0.178;-4.008;0.0387;132.507;4;1;1;0.958
+725;September;The Best Of Earth, Wind & Fire Vol. 1;Earth, Wind & Fire;1978-11-23;215.093;85;False;0.697;0.168;0.697;0.832;0.00131;0.269;-7.264;0.0298;125.926;4;9;1;0.979
+726;SexyBack (feat. Timbaland);FutureSex/LoveSounds;Justin Timberlake;2006-09-12;242.733;82;True;0.967;0.0584;0.967;0.583;0.0;0.0519;-5.562;0.0789;117.0;4;7;0;0.964
+727;Everywhere - 2017 Remaster;Tango In the Night (Deluxe Edition);Fleetwood Mac;1987-04-13;226.653;81;False;0.73;0.258;0.73;0.487;0.01;0.0852;-10.991;0.0303;114.965;4;4;1;0.731
+728;Dream On;Aerosmith;Aerosmith;1973-01-05;266.96;83;False;0.307;0.388;0.307;0.433;9.08e-05;0.332;-10.057;0.029;160.9;4;1;1;0.224
+729;A Thousand Miles;Be Not Nobody;Vanessa Carlton;2002-04-30;237.493;80;False;0.56;0.323;0.56;0.825;0.0;0.161;-3.862;0.0379;94.931;4;11;1;0.268
+730;How You Remind Me;Silver Side Up;Nickelback;2001-09-11;223.84;83;False;0.446;0.00135;0.446;0.764;0.0;0.099;-5.042;0.033;172.094;4;10;1;0.543
+731;Best Part (feat. Daniel Caesar);H.E.R.;H.E.R.;2017-10-20;209.4;80;False;0.473;0.795;0.473;0.371;0.0;0.109;-10.219;0.0405;75.208;4;4;0;0.413
+732;Arcade;Small Town Boy (Track By Track);Duncan Laurence;2020-11-12;185.146;79;False;0.453;0.827;0.453;0.35;0.00122;0.144;-11.639;0.0425;72.017;3;9;0;0.279
+733;traitor;SOUR;Olivia Rodrigo;2021-05-21;229.226;94;False;0.38;0.691;0.38;0.339;0.0;0.12;-7.885;0.0338;100.607;4;3;1;0.0849
+734;Cold Heart - PNAU Remix;The Lockdown Sessions;Elton John;2021-10-22;202.735;78;False;0.795;0.0354;0.795;0.8;7.25e-05;0.0915;-6.32;0.0309;116.032;4;1;1;0.934
+735;Walking On A Dream;Walking On A Dream (10th Anniversary Edition);Empire of the Sun;2008-10-03;198.44;82;False;0.871;0.257;0.871;0.701;7.52e-06;0.0589;-5.594;0.0458;126.975;4;5;0;0.716
+736;Why'd You Only Call Me When You're High?;AM;Arctic Monkeys;2013-09-09;161.123;89;False;0.691;0.0483;0.691;0.631;1.13e-05;0.104;-6.478;0.0368;92.004;4;2;1;0.8
+737;R U Mine?;AM;Arctic Monkeys;2013-09-09;201.726;83;False;0.288;0.00616;0.288;0.758;0.0;0.303;-5.692;0.0371;97.094;4;6;0;0.619
+738;Fluorescent Adolescent;Favourite Worst Nightmare (Standard Version);Arctic Monkeys;2007-04-24;173.493;72;False;0.646;0.00178;0.646;0.813;2.26e-05;0.144;-5.29;0.0288;112.115;4;6;0;0.821
+739;Team;Pure Heroine;Lorde;2013-09-27;193.058;81;False;0.69;0.167;0.69;0.578;0.0;0.305;-7.436;0.0929;99.961;4;6;1;0.416
+740;Breaking Me;Breaking Me;Topic;2019-12-19;166.793;84;False;0.789;0.223;0.789;0.72;0.0;0.129;-5.652;0.218;122.031;4;8;0;0.664
+741;Pepas;La 167;Farruko;2021-10-01;287.12;86;True;0.762;0.00776;0.762;0.766;6.98e-05;0.128;-3.955;0.0343;130.001;4;7;1;0.442
+742;Airplanes (feat. Hayley Williams of Paramore);B.o.B Presents: The Adventures of Bobby Ray;B.o.B;2010-04-27;180.48;80;True;0.66;0.11;0.66;0.867;0.0;0.0368;-4.285;0.116;93.033;4;6;0;0.377
+743;Same Old Love;Revival (Deluxe);Selena Gomez;2015-10-09;229.08;70;False;0.672;0.0223;0.672;0.593;0.0;0.214;-4.01;0.0304;98.02;4;11;0;0.438
+744;Lose You To Love Me;Rare;Selena Gomez;2020-01-10;206.458;85;False;0.488;0.556;0.488;0.343;0.0;0.21;-8.985;0.0436;102.819;4;4;1;0.0978
+745;Hate Me;Brightest Blue;Ellie Goulding;2020-07-16;188.066;72;False;0.64;0.0875;0.64;0.789;0.0;0.147;-4.891;0.0644;75.018;4;8;1;0.762
+746;Burn;Halcyon Days;Ellie Goulding;2013-01-01;231.211;71;False;0.559;0.31;0.559;0.777;0.0;0.105;-5.031;0.0432;87.016;4;1;1;0.329
+747;Fast Car;Tracy Chapman;Tracy Chapman;1988-04-05;296.8;81;False;0.711;0.313;0.711;0.292;0.0;0.131;-15.523;0.037;103.951;4;4;0;0.194
+748;Whoopty;Loyalty Over Royalty;CJ;2021-02-19;123.262;76;True;0.719;0.2;0.719;0.648;0.0;0.127;-7.6;0.125;140.201;4;3;0;0.66
+749;My Oh My (feat. DaBaby);Romance;Camila Cabello;2019-12-06;170.746;81;False;0.724;0.018;0.724;0.491;1.29e-05;0.0887;-6.024;0.0296;105.046;4;8;1;0.383
+750;Alone;Different World;Alan Walker;2018-12-14;160.426;77;False;0.673;0.229;0.673;0.914;0.000478;0.186;-3.962;0.0496;97.021;4;10;1;0.183
+751;Need to Know;Planet Her;Doja Cat;2021-06-25;210.56;93;True;0.664;0.304;0.664;0.609;0.0;0.0926;-6.509;0.0707;130.041;4;1;1;0.194
+752;Woman;Planet Her;Doja Cat;2021-06-25;172.626;96;True;0.824;0.0888;0.824;0.764;0.00294;0.117;-4.175;0.0854;107.998;4;5;0;0.881
+753;Streets;Hot Pink;Doja Cat;2019-11-07;226.986;89;True;0.749;0.21;0.749;0.463;0.0382;0.338;-8.433;0.0842;90.035;4;11;1;0.189
+754;Little Do You Know;It's About Us;Alex & Sierra;2014-10-06;185.2;79;False;0.5;0.746;0.5;0.292;0.0;0.188;-8.554;0.0323;145.879;4;0;1;0.37
+755;Drowning (feat. Kodak Black);The Bigger Artist;A Boogie Wit da Hoodie;2017-09-29;209.269;79;True;0.839;0.501;0.839;0.81;0.0;0.117;-5.274;0.0568;129.014;4;5;0;0.814
+756;Look Back at It;Hoodie SZN;A Boogie Wit da Hoodie;2018-12-21;179.449;78;True;0.791;0.407;0.791;0.587;0.0;0.148;-5.075;0.0413;96.057;4;3;0;0.536
+757;Yonaguni;Yonaguni;Bad Bunny;2021-06-04;206.71;95;True;0.644;0.276;0.644;0.648;0.0;0.135;-4.601;0.118;179.951;4;1;1;0.44
+758;Party Girl;Fallin';StaySolidRocky;2020-07-15;147.8;73;False;0.73;0.747;0.73;0.439;0.0;0.0988;-9.864;0.0609;130.09;4;6;0;0.615
+759;Best Day Of My Life;Oh, What A Life;American Authors;2014-01-01;194.24;83;False;0.673;0.0591;0.673;0.902;0.000262;0.0558;-2.392;0.0346;100.012;4;2;1;0.538
+760;I Love It (feat. Charli XCX);THIS IS... ICONA POP;Icona Pop;2013-08-27;157.152;73;True;0.711;0.00952;0.711;0.906;1.64e-05;0.153;-2.671;0.0284;125.916;4;8;1;0.824
+761;Don't You (Forget About Me);Once Upon A Time (Super Deluxe);Simple Minds;1985;263.04;78;False;0.66;0.168;0.66;0.816;0.0181;0.0608;-6.61;0.0299;111.346;4;2;1;0.678
+762;Work Out;Cole World: The Sideline Story;J. Cole;2011-09-27;235.32;86;True;0.831;0.0531;0.831;0.427;0.0;0.307;-6.903;0.106;93.004;4;2;1;0.216
+763;The Middle;Bleed American;Jimmy Eat World;2001-07-17;165.853;83;False;0.643;0.0371;0.643;0.849;0.0;0.058;-5.428;0.0526;162.152;4;2;1;0.903
+764;505;Favourite Worst Nightmare (Standard Version);Arctic Monkeys;2007-04-24;253.586;86;False;0.52;0.00237;0.52;0.852;5.79e-05;0.0733;-5.866;0.0543;140.267;4;0;1;0.234
+765;Complicated;Let Go;Avril Lavigne;2002-06-04;244.506;83;False;0.585;0.0572;0.585;0.776;7.74e-06;0.3;-5.898;0.0459;77.987;4;5;1;0.427
+766;More Than a Feeling;Boston;Boston;1976;285.133;82;False;0.377;0.00088;0.377;0.681;0.0023;0.0504;-8.039;0.0298;108.789;4;7;1;0.285
+767;Nothing Breaks Like a Heart (feat. Miley Cyrus);Late Night Feelings;Mark Ronson;2019-06-21;217.099;77;False;0.601;0.00987;0.601;0.794;1.36e-06;0.418;-5.844;0.0671;114.066;4;7;0;0.244
+768;Electricity (with Dua Lipa);Electricity (with Dua Lipa);Silk City;2018-09-06;238.173;78;False;0.588;0.0104;0.588;0.67;3.33e-06;0.338;-6.439;0.0473;118.159;4;0;1;0.505
+769;Stan;The Marshall Mathers LP;Eminem;2000-05-23;404.106;88;True;0.78;0.0371;0.78;0.768;2.34e-06;0.518;-4.325;0.238;80.063;4;6;0;0.507
+770;Shivers;=;Ed Sheeran;2021-10-29;207.853;96;False;0.788;0.281;0.788;0.859;0.0;0.0424;-2.724;0.0856;141.02;4;2;1;0.822
+771;Because of You;Breakaway;Kelly Clarkson;2004-01-17;219.493;72;False;0.583;0.254;0.583;0.584;0.0;0.123;-5.362;0.0314;140.039;4;5;0;0.136
+772;Wet Dreamz;2014 Forest Hills Drive;J. Cole;2014-12-09;239.266;85;True;0.495;0.0697;0.495;0.722;0.0;0.113;-8.108;0.357;175.627;4;6;0;0.539
+773;Revenge;17;XXXTENTACION;2017-08-25;120.026;89;True;0.746;0.782;0.746;0.251;0.00203;0.106;-16.169;0.259;139.999;4;11;0;0.18
+774;Look At Me!;Look At Me!;XXXTENTACION;2017-02-20;126.345;86;True;0.763;0.259;0.763;0.726;0.0;0.0976;-6.405;0.282;139.059;4;1;1;0.349
+775;Falling Down - Bonus Track;Come Over When You're Sober, Pt. 2;Lil Peep;2018-11-09;196.4;85;True;0.669;0.0175;0.669;0.574;0.00294;0.146;-6.442;0.0286;120.013;4;4;0;0.273
+776;the remedy for a broken heart (why am I so in love);?;XXXTENTACION;2018-03-16;160.184;85;True;0.699;0.779;0.699;0.304;0.000993;0.137;-11.192;0.0993;119.705;4;1;1;0.271
+777;abcdefu;a study of the human experience volume one;GAYLE;2022-03-18;168.551;47;True;0.695;0.299;0.695;0.54;0.0;0.369;-5.688;0.0491;121.947;4;4;1;0.415
+778;Magnolia;Playboi Carti;Playboi Carti;2017-04-14;181.812;82;True;0.791;0.0114;0.791;0.582;0.0;0.35;-7.323;0.286;162.991;4;11;0;0.443
+779;Closer;Closer;The Chainsmokers;2016-07-29;244.96;89;False;0.748;0.414;0.748;0.524;0.0;0.111;-5.599;0.0338;95.01;4;8;1;0.661
+780;Takeaway;World War Joy;The Chainsmokers;2019-12-06;209.88;80;False;0.528;0.126;0.528;0.511;0.0;0.101;-8.144;0.0324;100.1;4;3;1;0.351
+781;Call You Mine;World War Joy;The Chainsmokers;2019-12-06;217.64;79;False;0.585;0.204;0.585;0.696;0.0;0.344;-5.6;0.0307;104.01;4;4;0;0.522
+782;This Feeling;Sick Boy;The Chainsmokers;2018-12-14;197.946;78;False;0.575;0.0558;0.575;0.571;0.0;0.0912;-7.906;0.0439;105.049;4;1;1;0.449
+783;Let Me Down Slowly;Narrated For You;Alec Benjamin;2018-11-16;169.353;88;False;0.652;0.74;0.652;0.557;0.0;0.124;-5.714;0.0318;150.073;4;1;0;0.483
+784;Hold On;Hold On;Chord Overstreet;2017-02-03;198.853;84;False;0.618;0.469;0.618;0.443;0.0;0.0829;-9.681;0.0526;119.949;4;2;1;0.167
